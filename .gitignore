@@ -1,0 +1,28 @@
+# Ignorar el entorno virtual de Python
+venv/
+*.pyc
+*.pyo
+__pycache__/
+*.swp
+*.swo
+
+# Ignorar archivos de salida corregidos
+#myProject/correctedDocuments/
+
+# Ignorar archivos CSV originales (si no quieres subirlos)
+#myProject/documents/*.csv
+
+# Ignorar logs y archivos temporales
+*.log
+*.tmp
+*.bak
+img/
+
+
+# Ignorar archivos de configuración de VSCode y Thonny
+.vscode/
+*.thonny
+
+# Ignorar dependencias de Python instaladas en el proyecto
+Pipfile
+Pipfile.lock

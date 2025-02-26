@@ -1,0 +1,2001 @@
+Nombre de la Empresa,Tipo de Cliente,Ubicación,Ejecutivo de Cuenta,Volumen de Compra Mensual
+Cliente 1,Mediana Empresa,Ubicación 30,Empleado 57,44593.94
+Cliente 2,Corporativo,Ubicación 34,Empleado 43,39182.46
+Cliente 3,Gobierno,Ubicación 5,Empleado 82,1504.34
+Cliente 4,Corporativo,Ubicación 76,Empleado 57,40103.55
+Cliente 5,Gobierno,Ubicación 8,Empleado 93,21789.46
+Cliente 6,Gobierno,Ubicación 96,Empleado 46,44131.17
+Cliente 7,Corporativo,Ubicación 76,Empleado 13,39893.5
+Cliente 8,Pequeña Empresa,Ubicación 29,Empleado 85,34871.54
+Cliente 9,Mediana Empresa,Ubicación 96,Empleado 78,12484.61
+Cliente 10,Mediana Empresa,Ubicación 57,Empleado 51,12958.58
+Cliente 11,Corporativo,Ubicación 39,Empleado 27,37715.24
+Cliente 12,Pequeña Empresa,Ubicación 95,Empleado 97,37100.18
+Cliente 13,Mediana Empresa,Ubicación 54,Empleado 40,2132.97
+Cliente 14,Mediana Empresa,Ubicación 13,Empleado 65,10382.25
+Cliente 15,Mediana Empresa,Ubicación 99,Empleado 12,41759.64
+Cliente 16,Corporativo,Ubicación 56,Empleado 66,13982.32
+Cliente 17,Pequeña Empresa,Ubicación 75,Empleado 67,10465.28
+Cliente 18,Mediana Empresa,Ubicación 54,Empleado 86,39196.74
+Cliente 19,Pequeña Empresa,Ubicación 60,Empleado 33,34789.18
+Cliente 20,Mediana Empresa,Ubicación 25,Empleado 62,27470.06
+Cliente 21,Pequeña Empresa,Ubicación 24,Empleado 45,47382.73
+Cliente 22,Gobierno,Ubicación 76,Empleado 59,1805.44
+Cliente 23,Pequeña Empresa,Ubicación 82,Empleado 42,40433.97
+Cliente 24,Mediana Empresa,Ubicación 77,Empleado 4,23033.92
+Cliente 25,Mediana Empresa,Ubicación 27,Empleado 61,18096.83
+Cliente 26,Gobierno,Ubicación 83,Empleado 38,24480.28
+Cliente 27,Pequeña Empresa,Ubicación 65,Empleado 37,21489.57
+Cliente 28,Corporativo,Ubicación 96,Empleado 6,44089.66
+Cliente 29,Gobierno,Ubicación 100,Empleado 21,27727.76
+Cliente 30,Gobierno,Ubicación 42,Empleado 48,29458.58
+Cliente 31,Gobierno,Ubicación 58,Empleado 73,27301.96
+Cliente 32,Mediana Empresa,Ubicación 24,Empleado 98,12695.65
+Cliente 33,Gobierno,Ubicación 54,Empleado 38,36269.71
+Cliente 34,Mediana Empresa,Ubicación 49,Empleado 77,40483.67
+Cliente 35,Corporativo,Ubicación 6,Empleado 53,17073.64
+Cliente 36,Corporativo,Ubicación 15,Empleado 21,26396.91
+Cliente 37,Gobierno,Ubicación 39,Empleado 54,49320.69
+Cliente 38,Mediana Empresa,Ubicación 91,Empleado 69,9734.56
+Cliente 39,Pequeña Empresa,Ubicación 44,Empleado 76,28388.42
+Cliente 40,Gobierno,Ubicación 46,Empleado 24,30697.6
+Cliente 41,Mediana Empresa,Ubicación 31,Empleado 94,23246.2
+Cliente 42,Gobierno,Ubicación 46,Empleado 19,20086.21
+Cliente 43,Pequeña Empresa,Ubicación 92,Empleado 12,1982.39
+Cliente 44,Pequeña Empresa,Ubicación 88,Empleado 92,27475.39
+Cliente 45,Corporativo,Ubicación 43,Empleado 80,49142.37
+Cliente 46,Pequeña Empresa,Ubicación 100,Empleado 29,17311.46
+Cliente 47,Gobierno,Ubicación 73,Empleado 4,42560.08
+Cliente 48,Mediana Empresa,Ubicación 40,Empleado 25,5281.79
+Cliente 49,Gobierno,Ubicación 31,Empleado 27,26345.05
+Cliente 50,Gobierno,Ubicación 70,Empleado 29,26205.76
+Cliente 51,Mediana Empresa,Ubicación 40,Empleado 79,34017.2
+Cliente 52,Gobierno,Ubicación 90,Empleado 23,9357.78
+Cliente 53,Corporativo,Ubicación 27,Empleado 10,21097.95
+Cliente 54,Mediana Empresa,Ubicación 87,Empleado 36,10064.47
+Cliente 55,Pequeña Empresa,Ubicación 47,Empleado 57,12093.96
+Cliente 56,Mediana Empresa,Ubicación 97,Empleado 32,11688.54
+Cliente 57,Corporativo,Ubicación 100,Empleado 24,41211.23
+Cliente 58,Corporativo,Ubicación 38,Empleado 42,23956.42
+Cliente 59,Mediana Empresa,Ubicación 82,Empleado 18,37915.09
+Cliente 60,Gobierno,Ubicación 9,Empleado 98,46456.63
+Cliente 61,Gobierno,Ubicación 84,Empleado 49,2105.43
+Cliente 62,Mediana Empresa,Ubicación 44,Empleado 69,18716.75
+Cliente 63,Pequeña Empresa,Ubicación 64,Empleado 18,11213.24
+Cliente 64,Gobierno,Ubicación 85,Empleado 22,8489.65
+Cliente 65,Corporativo,Ubicación 54,Empleado 85,3222.0
+Cliente 66,Gobierno,Ubicación 58,Empleado 41,30623.28
+Cliente 67,Pequeña Empresa,Ubicación 17,Empleado 16,24089.53
+Cliente 68,Corporativo,Ubicación 32,Empleado 20,24786.24
+Cliente 69,Pequeña Empresa,Ubicación 43,Empleado 93,21246.42
+Cliente 70,Corporativo,Ubicación 67,Empleado 73,25864.06
+Cliente 71,Pequeña Empresa,Ubicación 44,Empleado 54,11844.75
+Cliente 72,Mediana Empresa,Ubicación 19,Empleado 73,12400.62
+Cliente 73,Mediana Empresa,Ubicación 24,Empleado 96,26209.04
+Cliente 74,Pequeña Empresa,Ubicación 64,Empleado 68,38237.2
+Cliente 75,Pequeña Empresa,Ubicación 29,Empleado 24,45839.6
+Cliente 76,Corporativo,Ubicación 26,Empleado 11,31604.42
+Cliente 77,Pequeña Empresa,Ubicación 77,Empleado 36,24705.42
+Cliente 78,Corporativo,Ubicación 48,Empleado 46,48206.9
+Cliente 79,Gobierno,Ubicación 50,Empleado 81,26932.55
+Cliente 80,Pequeña Empresa,Ubicación 96,Empleado 25,30837.93
+Cliente 81,Mediana Empresa,Ubicación 6,Empleado 53,47152.81
+Cliente 82,Corporativo,Ubicación 67,Empleado 70,31632.39
+Cliente 83,Pequeña Empresa,Ubicación 42,Empleado 9,12851.12
+Cliente 84,Gobierno,Ubicación 63,Empleado 79,22529.42
+Cliente 85,Corporativo,Ubicación 6,Empleado 69,32650.69
+Cliente 86,Pequeña Empresa,Ubicación 83,Empleado 60,31029.54
+Cliente 87,Pequeña Empresa,Ubicación 2,Empleado 48,36741.86
+Cliente 88,Pequeña Empresa,Ubicación 25,Empleado 15,30626.49
+Cliente 89,Pequeña Empresa,Ubicación 83,Empleado 45,44591.2
+Cliente 90,Pequeña Empresa,Ubicación 26,Empleado 56,30616.39
+Cliente 91,Corporativo,Ubicación 69,Empleado 15,1048.55
+Cliente 92,Mediana Empresa,Ubicación 78,Empleado 12,14976.51
+Cliente 93,Pequeña Empresa,Ubicación 100,Empleado 96,30137.88
+Cliente 94,Mediana Empresa,Ubicación 40,Empleado 20,35353.83
+Cliente 95,Mediana Empresa,Ubicación 86,Empleado 95,13068.76
+Cliente 96,Corporativo,Ubicación 98,Empleado 5,31060.69
+Cliente 97,Corporativo,Ubicación 4,Empleado 89,34255.63
+Cliente 98,Pequeña Empresa,Ubicación 76,Empleado 80,29896.92
+Cliente 99,Gobierno,Ubicación 74,Empleado 9,37233.61
+Cliente 100,Corporativo,Ubicación 99,Empleado 68,17882.89
+Cliente 101,Pequeña Empresa,Ubicación 97,Empleado 51,36730.23
+Cliente 102,Mediana Empresa,Ubicación 69,Empleado 89,12640.49
+Cliente 103,Mediana Empresa,Ubicación 65,Empleado 30,2907.86
+Cliente 104,Gobierno,Ubicación 36,Empleado 38,7775.41
+Cliente 105,Mediana Empresa,Ubicación 95,Empleado 56,36161.12
+Cliente 106,Pequeña Empresa,Ubicación 73,Empleado 97,39503.21
+Cliente 107,Mediana Empresa,Ubicación 2,Empleado 18,27115.75
+Cliente 108,Mediana Empresa,Ubicación 5,Empleado 60,32528.35
+Cliente 109,Gobierno,Ubicación 89,Empleado 68,14565.98
+Cliente 110,Pequeña Empresa,Ubicación 11,Empleado 87,3017.28
+Cliente 111,Gobierno,Ubicación 34,Empleado 83,18538.02
+Cliente 112,Mediana Empresa,Ubicación 15,Empleado 68,42988.01
+Cliente 113,Mediana Empresa,Ubicación 89,Empleado 93,4051.63
+Cliente 114,Corporativo,Ubicación 57,Empleado 47,14427.66
+Cliente 115,Gobierno,Ubicación 21,Empleado 47,2515.92
+Cliente 116,Pequeña Empresa,Ubicación 62,Empleado 62,25163.2
+Cliente 117,Corporativo,Ubicación 2,Empleado 3,44538.35
+Cliente 118,Gobierno,Ubicación 45,Empleado 25,6972.38
+Cliente 119,Corporativo,Ubicación 5,Empleado 99,16460.19
+Cliente 120,Gobierno,Ubicación 52,Empleado 52,38242.38
+Cliente 121,Corporativo,Ubicación 99,Empleado 58,48554.23
+Cliente 122,Corporativo,Ubicación 1,Empleado 77,37945.25
+Cliente 123,Mediana Empresa,Ubicación 24,Empleado 60,46152.66
+Cliente 124,Mediana Empresa,Ubicación 30,Empleado 68,20405.19
+Cliente 125,Pequeña Empresa,Ubicación 92,Empleado 16,38280.67
+Cliente 126,Mediana Empresa,Ubicación 67,Empleado 99,26889.33
+Cliente 127,Pequeña Empresa,Ubicación 10,Empleado 77,19881.98
+Cliente 128,Pequeña Empresa,Ubicación 41,Empleado 84,8432.77
+Cliente 129,Corporativo,Ubicación 39,Empleado 1,36145.99
+Cliente 130,Gobierno,Ubicación 17,Empleado 35,29228.8
+Cliente 131,Mediana Empresa,Ubicación 83,Empleado 54,9872.58
+Cliente 132,Mediana Empresa,Ubicación 14,Empleado 76,11236.39
+Cliente 133,Pequeña Empresa,Ubicación 53,Empleado 2,39014.04
+Cliente 134,Mediana Empresa,Ubicación 91,Empleado 18,41543.71
+Cliente 135,Gobierno,Ubicación 74,Empleado 99,36647.34
+Cliente 136,Corporativo,Ubicación 88,Empleado 8,26260.06
+Cliente 137,Pequeña Empresa,Ubicación 3,Empleado 68,17381.88
+Cliente 138,Mediana Empresa,Ubicación 42,Empleado 71,5471.46
+Cliente 139,Mediana Empresa,Ubicación 19,Empleado 92,16286.75
+Cliente 140,Gobierno,Ubicación 53,Empleado 78,10154.76
+Cliente 141,Gobierno,Ubicación 93,Empleado 17,2124.26
+Cliente 142,Mediana Empresa,Ubicación 5,Empleado 12,10133.05
+Cliente 143,Corporativo,Ubicación 76,Empleado 43,29148.76
+Cliente 144,Pequeña Empresa,Ubicación 67,Empleado 53,15154.03
+Cliente 145,Gobierno,Ubicación 24,Empleado 69,42600.59
+Cliente 146,Gobierno,Ubicación 68,Empleado 33,23142.82
+Cliente 147,Gobierno,Ubicación 97,Empleado 36,24272.5
+Cliente 148,Corporativo,Ubicación 76,Empleado 58,8634.73
+Cliente 149,Pequeña Empresa,Ubicación 64,Empleado 13,518.92
+Cliente 150,Pequeña Empresa,Ubicación 83,Empleado 32,37935.62
+Cliente 151,Pequeña Empresa,Ubicación 97,Empleado 73,21274.44
+Cliente 152,Pequeña Empresa,Ubicación 64,Empleado 71,1855.69
+Cliente 153,Pequeña Empresa,Ubicación 13,Empleado 98,14658.55
+Cliente 154,Gobierno,Ubicación 96,Empleado 18,24882.04
+Cliente 155,Corporativo,Ubicación 47,Empleado 99,43899.35
+Cliente 156,Mediana Empresa,Ubicación 63,Empleado 76,33830.46
+Cliente 157,Pequeña Empresa,Ubicación 15,Empleado 69,37382.09
+Cliente 158,Gobierno,Ubicación 64,Empleado 79,27428.76
+Cliente 159,Gobierno,Ubicación 3,Empleado 41,38603.5
+Cliente 160,Pequeña Empresa,Ubicación 51,Empleado 22,19117.94
+Cliente 161,Gobierno,Ubicación 57,Empleado 35,44351.6
+Cliente 162,Corporativo,Ubicación 66,Empleado 51,49096.14
+Cliente 163,Gobierno,Ubicación 26,Empleado 89,38784.67
+Cliente 164,Corporativo,Ubicación 22,Empleado 50,39411.11
+Cliente 165,Pequeña Empresa,Ubicación 34,Empleado 62,41134.65
+Cliente 166,Pequeña Empresa,Ubicación 24,Empleado 38,18739.89
+Cliente 167,Corporativo,Ubicación 94,Empleado 72,40039.33
+Cliente 168,Mediana Empresa,Ubicación 5,Empleado 50,39623.97
+Cliente 169,Mediana Empresa,Ubicación 43,Empleado 48,34589.42
+Cliente 170,Pequeña Empresa,Ubicación 11,Empleado 82,41197.37
+Cliente 171,Pequeña Empresa,Ubicación 67,Empleado 30,18850.21
+Cliente 172,Corporativo,Ubicación 31,Empleado 90,32236.86
+Cliente 173,Corporativo,Ubicación 23,Empleado 13,5384.65
+Cliente 174,Mediana Empresa,Ubicación 6,Empleado 31,15289.87
+Cliente 175,Gobierno,Ubicación 45,Empleado 92,8394.75
+Cliente 176,Mediana Empresa,Ubicación 34,Empleado 60,39462.59
+Cliente 177,Mediana Empresa,Ubicación 60,Empleado 81,14205.79
+Cliente 178,Corporativo,Ubicación 27,Empleado 60,30076.52
+Cliente 179,Pequeña Empresa,Ubicación 32,Empleado 5,20180.21
+Cliente 180,Mediana Empresa,Ubicación 14,Empleado 30,8790.84
+Cliente 181,Pequeña Empresa,Ubicación 62,Empleado 32,49196.13
+Cliente 182,Corporativo,Ubicación 25,Empleado 64,5845.8
+Cliente 183,Corporativo,Ubicación 85,Empleado 92,21824.74
+Cliente 184,Mediana Empresa,Ubicación 74,Empleado 68,39422.55
+Cliente 185,Gobierno,Ubicación 77,Empleado 86,4270.5
+Cliente 186,Mediana Empresa,Ubicación 26,Empleado 32,12168.75
+Cliente 187,Gobierno,Ubicación 28,Empleado 83,5526.99
+Cliente 188,Mediana Empresa,Ubicación 72,Empleado 37,15643.44
+Cliente 189,Mediana Empresa,Ubicación 9,Empleado 29,31735.01
+Cliente 190,Mediana Empresa,Ubicación 46,Empleado 34,38469.66
+Cliente 191,Mediana Empresa,Ubicación 23,Empleado 99,1242.37
+Cliente 192,Pequeña Empresa,Ubicación 96,Empleado 47,47511.5
+Cliente 193,Gobierno,Ubicación 29,Empleado 40,48591.63
+Cliente 194,Corporativo,Ubicación 73,Empleado 14,32614.85
+Cliente 195,Corporativo,Ubicación 24,Empleado 24,36315.95
+Cliente 196,Mediana Empresa,Ubicación 1,Empleado 63,6158.77
+Cliente 197,Pequeña Empresa,Ubicación 32,Empleado 55,1129.34
+Cliente 198,Mediana Empresa,Ubicación 54,Empleado 90,28145.77
+Cliente 199,Pequeña Empresa,Ubicación 18,Empleado 70,49509.22
+Cliente 200,Gobierno,Ubicación 14,Empleado 40,35097.93
+Cliente 201,Gobierno,Ubicación 100,Empleado 77,4917.51
+Cliente 202,Corporativo,Ubicación 79,Empleado 14,31842.08
+Cliente 203,Pequeña Empresa,Ubicación 87,Empleado 58,1777.6
+Cliente 204,Gobierno,Ubicación 27,Empleado 34,41822.19
+Cliente 205,Pequeña Empresa,Ubicación 28,Empleado 77,34593.82
+Cliente 206,Corporativo,Ubicación 75,Empleado 49,18772.7
+Cliente 207,Pequeña Empresa,Ubicación 88,Empleado 50,40301.36
+Cliente 208,Mediana Empresa,Ubicación 84,Empleado 52,12696.28
+Cliente 209,Gobierno,Ubicación 64,Empleado 39,42755.18
+Cliente 210,Corporativo,Ubicación 53,Empleado 10,36257.88
+Cliente 211,Gobierno,Ubicación 18,Empleado 43,48919.21
+Cliente 212,Pequeña Empresa,Ubicación 71,Empleado 91,4654.51
+Cliente 213,Gobierno,Ubicación 80,Empleado 88,11106.95
+Cliente 214,Gobierno,Ubicación 12,Empleado 50,1400.38
+Cliente 215,Pequeña Empresa,Ubicación 17,Empleado 12,30971.48
+Cliente 216,Pequeña Empresa,Ubicación 91,Empleado 33,34933.42
+Cliente 217,Mediana Empresa,Ubicación 91,Empleado 12,7005.11
+Cliente 218,Gobierno,Ubicación 51,Empleado 42,24972.39
+Cliente 219,Corporativo,Ubicación 19,Empleado 65,47731.37
+Cliente 220,Corporativo,Ubicación 71,Empleado 82,27367.09
+Cliente 221,Corporativo,Ubicación 19,Empleado 46,7549.5
+Cliente 222,Corporativo,Ubicación 18,Empleado 17,24466.26
+Cliente 223,Mediana Empresa,Ubicación 95,Empleado 46,18818.44
+Cliente 224,Mediana Empresa,Ubicación 62,Empleado 100,32333.36
+Cliente 225,Corporativo,Ubicación 96,Empleado 29,24521.98
+Cliente 226,Gobierno,Ubicación 31,Empleado 76,49825.09
+Cliente 227,Corporativo,Ubicación 96,Empleado 56,12436.45
+Cliente 228,Corporativo,Ubicación 4,Empleado 95,32853.63
+Cliente 229,Gobierno,Ubicación 22,Empleado 91,20112.27
+Cliente 230,Gobierno,Ubicación 74,Empleado 38,40206.27
+Cliente 231,Mediana Empresa,Ubicación 57,Empleado 18,19808.74
+Cliente 232,Pequeña Empresa,Ubicación 67,Empleado 71,41669.93
+Cliente 233,Corporativo,Ubicación 19,Empleado 6,12070.68
+Cliente 234,Corporativo,Ubicación 16,Empleado 62,23501.07
+Cliente 235,Gobierno,Ubicación 75,Empleado 37,22756.93
+Cliente 236,Gobierno,Ubicación 74,Empleado 71,47715.7
+Cliente 237,Mediana Empresa,Ubicación 86,Empleado 36,11464.24
+Cliente 238,Mediana Empresa,Ubicación 80,Empleado 74,42324.45
+Cliente 239,Pequeña Empresa,Ubicación 30,Empleado 10,43451.55
+Cliente 240,Corporativo,Ubicación 97,Empleado 36,47958.46
+Cliente 241,Corporativo,Ubicación 63,Empleado 65,26457.39
+Cliente 242,Pequeña Empresa,Ubicación 18,Empleado 78,17192.17
+Cliente 243,Pequeña Empresa,Ubicación 55,Empleado 91,3559.33
+Cliente 244,Gobierno,Ubicación 53,Empleado 84,32578.47
+Cliente 245,Pequeña Empresa,Ubicación 17,Empleado 39,3958.83
+Cliente 246,Corporativo,Ubicación 79,Empleado 15,35527.51
+Cliente 247,Pequeña Empresa,Ubicación 3,Empleado 69,27699.28
+Cliente 248,Corporativo,Ubicación 100,Empleado 44,34407.89
+Cliente 249,Corporativo,Ubicación 59,Empleado 91,43049.57
+Cliente 250,Corporativo,Ubicación 83,Empleado 61,16119.12
+Cliente 251,Gobierno,Ubicación 91,Empleado 92,26425.74
+Cliente 252,Pequeña Empresa,Ubicación 73,Empleado 22,26932.05
+Cliente 253,Mediana Empresa,Ubicación 69,Empleado 54,36262.03
+Cliente 254,Mediana Empresa,Ubicación 79,Empleado 33,9609.76
+Cliente 255,Corporativo,Ubicación 36,Empleado 30,30302.34
+Cliente 256,Corporativo,Ubicación 85,Empleado 66,25214.99
+Cliente 257,Pequeña Empresa,Ubicación 50,Empleado 39,5119.59
+Cliente 258,Mediana Empresa,Ubicación 27,Empleado 93,6110.92
+Cliente 259,Corporativo,Ubicación 2,Empleado 53,32305.98
+Cliente 260,Mediana Empresa,Ubicación 14,Empleado 68,23399.86
+Cliente 261,Gobierno,Ubicación 34,Empleado 84,20297.79
+Cliente 262,Pequeña Empresa,Ubicación 25,Empleado 13,23621.23
+Cliente 263,Corporativo,Ubicación 35,Empleado 79,10182.19
+Cliente 264,Gobierno,Ubicación 62,Empleado 29,49473.34
+Cliente 265,Corporativo,Ubicación 67,Empleado 31,24467.97
+Cliente 266,Mediana Empresa,Ubicación 91,Empleado 56,9375.62
+Cliente 267,Pequeña Empresa,Ubicación 21,Empleado 54,21045.91
+Cliente 268,Gobierno,Ubicación 3,Empleado 85,10840.98
+Cliente 269,Pequeña Empresa,Ubicación 66,Empleado 5,22469.33
+Cliente 270,Gobierno,Ubicación 26,Empleado 87,24076.48
+Cliente 271,Gobierno,Ubicación 92,Empleado 21,40320.38
+Cliente 272,Gobierno,Ubicación 6,Empleado 49,7849.76
+Cliente 273,Mediana Empresa,Ubicación 94,Empleado 66,24340.76
+Cliente 274,Gobierno,Ubicación 31,Empleado 26,33476.5
+Cliente 275,Mediana Empresa,Ubicación 46,Empleado 24,25990.66
+Cliente 276,Gobierno,Ubicación 18,Empleado 39,11439.62
+Cliente 277,Mediana Empresa,Ubicación 89,Empleado 96,11052.57
+Cliente 278,Corporativo,Ubicación 67,Empleado 55,31229.99
+Cliente 279,Corporativo,Ubicación 86,Empleado 58,42212.19
+Cliente 280,Corporativo,Ubicación 25,Empleado 61,41417.24
+Cliente 281,Pequeña Empresa,Ubicación 56,Empleado 45,38794.35
+Cliente 282,Mediana Empresa,Ubicación 69,Empleado 11,29540.08
+Cliente 283,Pequeña Empresa,Ubicación 99,Empleado 51,32722.3
+Cliente 284,Corporativo,Ubicación 10,Empleado 50,13488.04
+Cliente 285,Corporativo,Ubicación 49,Empleado 2,41955.6
+Cliente 286,Corporativo,Ubicación 28,Empleado 94,34761.57
+Cliente 287,Corporativo,Ubicación 97,Empleado 9,16083.61
+Cliente 288,Gobierno,Ubicación 30,Empleado 28,13905.66
+Cliente 289,Gobierno,Ubicación 35,Empleado 91,37101.18
+Cliente 290,Corporativo,Ubicación 70,Empleado 52,24095.33
+Cliente 291,Pequeña Empresa,Ubicación 32,Empleado 97,40218.11
+Cliente 292,Corporativo,Ubicación 41,Empleado 89,23246.44
+Cliente 293,Gobierno,Ubicación 39,Empleado 83,48918.11
+Cliente 294,Corporativo,Ubicación 29,Empleado 36,37306.2
+Cliente 295,Mediana Empresa,Ubicación 17,Empleado 60,26248.67
+Cliente 296,Mediana Empresa,Ubicación 31,Empleado 26,44462.42
+Cliente 297,Pequeña Empresa,Ubicación 91,Empleado 2,25197.26
+Cliente 298,Gobierno,Ubicación 21,Empleado 43,6483.92
+Cliente 299,Gobierno,Ubicación 41,Empleado 98,10079.17
+Cliente 300,Corporativo,Ubicación 68,Empleado 63,49423.78
+Cliente 301,Pequeña Empresa,Ubicación 57,Empleado 86,20587.68
+Cliente 302,Mediana Empresa,Ubicación 86,Empleado 87,49763.46
+Cliente 303,Corporativo,Ubicación 28,Empleado 81,29358.6
+Cliente 304,Mediana Empresa,Ubicación 45,Empleado 12,48436.67
+Cliente 305,Corporativo,Ubicación 40,Empleado 7,46444.42
+Cliente 306,Pequeña Empresa,Ubicación 42,Empleado 66,47857.32
+Cliente 307,Pequeña Empresa,Ubicación 62,Empleado 100,14755.68
+Cliente 308,Pequeña Empresa,Ubicación 63,Empleado 21,5259.22
+Cliente 309,Gobierno,Ubicación 81,Empleado 15,9225.03
+Cliente 310,Pequeña Empresa,Ubicación 42,Empleado 86,36767.82
+Cliente 311,Gobierno,Ubicación 70,Empleado 88,31607.39
+Cliente 312,Mediana Empresa,Ubicación 44,Empleado 38,34696.27
+Cliente 313,Mediana Empresa,Ubicación 67,Empleado 74,772.09
+Cliente 314,Pequeña Empresa,Ubicación 6,Empleado 65,13921.07
+Cliente 315,Corporativo,Ubicación 50,Empleado 14,8639.5
+Cliente 316,Mediana Empresa,Ubicación 22,Empleado 69,14809.8
+Cliente 317,Pequeña Empresa,Ubicación 2,Empleado 31,4319.18
+Cliente 318,Corporativo,Ubicación 5,Empleado 70,3338.0
+Cliente 319,Corporativo,Ubicación 60,Empleado 26,33834.16
+Cliente 320,Gobierno,Ubicación 40,Empleado 13,31788.74
+Cliente 321,Mediana Empresa,Ubicación 83,Empleado 87,36542.6
+Cliente 322,Pequeña Empresa,Ubicación 22,Empleado 83,2262.16
+Cliente 323,Corporativo,Ubicación 75,Empleado 43,32842.8
+Cliente 324,Gobierno,Ubicación 80,Empleado 97,28995.37
+Cliente 325,Mediana Empresa,Ubicación 68,Empleado 4,28975.31
+Cliente 326,Mediana Empresa,Ubicación 94,Empleado 18,19480.9
+Cliente 327,Gobierno,Ubicación 76,Empleado 98,6985.73
+Cliente 328,Mediana Empresa,Ubicación 37,Empleado 86,36393.1
+Cliente 329,Gobierno,Ubicación 71,Empleado 35,45918.83
+Cliente 330,Gobierno,Ubicación 55,Empleado 18,39865.35
+Cliente 331,Pequeña Empresa,Ubicación 80,Empleado 92,9780.95
+Cliente 332,Pequeña Empresa,Ubicación 4,Empleado 35,4150.3
+Cliente 333,Gobierno,Ubicación 51,Empleado 48,5326.92
+Cliente 334,Corporativo,Ubicación 60,Empleado 46,23953.28
+Cliente 335,Mediana Empresa,Ubicación 79,Empleado 40,37861.58
+Cliente 336,Corporativo,Ubicación 1,Empleado 31,8844.81
+Cliente 337,Corporativo,Ubicación 91,Empleado 85,12647.51
+Cliente 338,Mediana Empresa,Ubicación 33,Empleado 31,15079.57
+Cliente 339,Mediana Empresa,Ubicación 72,Empleado 9,39339.77
+Cliente 340,Gobierno,Ubicación 86,Empleado 9,30719.79
+Cliente 341,Corporativo,Ubicación 34,Empleado 50,38412.91
+Cliente 342,Gobierno,Ubicación 50,Empleado 85,28542.94
+Cliente 343,Gobierno,Ubicación 93,Empleado 33,20768.84
+Cliente 344,Corporativo,Ubicación 30,Empleado 33,43436.73
+Cliente 345,Corporativo,Ubicación 31,Empleado 15,21116.07
+Cliente 346,Pequeña Empresa,Ubicación 75,Empleado 35,40525.01
+Cliente 347,Corporativo,Ubicación 84,Empleado 8,15146.05
+Cliente 348,Corporativo,Ubicación 30,Empleado 66,30578.68
+Cliente 349,Mediana Empresa,Ubicación 35,Empleado 19,9642.73
+Cliente 350,Mediana Empresa,Ubicación 36,Empleado 33,18250.06
+Cliente 351,Gobierno,Ubicación 19,Empleado 23,18811.16
+Cliente 352,Pequeña Empresa,Ubicación 26,Empleado 52,11120.0
+Cliente 353,Mediana Empresa,Ubicación 66,Empleado 27,38983.89
+Cliente 354,Corporativo,Ubicación 97,Empleado 24,31578.43
+Cliente 355,Mediana Empresa,Ubicación 87,Empleado 58,32183.56
+Cliente 356,Gobierno,Ubicación 28,Empleado 81,13910.12
+Cliente 357,Gobierno,Ubicación 84,Empleado 15,41774.12
+Cliente 358,Corporativo,Ubicación 68,Empleado 5,25191.69
+Cliente 359,Mediana Empresa,Ubicación 85,Empleado 93,37214.32
+Cliente 360,Gobierno,Ubicación 85,Empleado 85,6433.17
+Cliente 361,Corporativo,Ubicación 59,Empleado 60,45569.94
+Cliente 362,Mediana Empresa,Ubicación 40,Empleado 98,16490.34
+Cliente 363,Pequeña Empresa,Ubicación 62,Empleado 80,25058.03
+Cliente 364,Pequeña Empresa,Ubicación 58,Empleado 44,40378.42
+Cliente 365,Corporativo,Ubicación 96,Empleado 15,19961.89
+Cliente 366,Pequeña Empresa,Ubicación 57,Empleado 44,29906.41
+Cliente 367,Mediana Empresa,Ubicación 88,Empleado 69,12551.98
+Cliente 368,Corporativo,Ubicación 40,Empleado 90,44214.0
+Cliente 369,Corporativo,Ubicación 27,Empleado 55,10605.22
+Cliente 370,Gobierno,Ubicación 86,Empleado 12,8988.9
+Cliente 371,Corporativo,Ubicación 1,Empleado 81,13381.81
+Cliente 372,Corporativo,Ubicación 88,Empleado 51,4150.39
+Cliente 373,Mediana Empresa,Ubicación 65,Empleado 33,19765.07
+Cliente 374,Mediana Empresa,Ubicación 61,Empleado 31,16236.9
+Cliente 375,Mediana Empresa,Ubicación 22,Empleado 25,38917.04
+Cliente 376,Gobierno,Ubicación 42,Empleado 66,28539.33
+Cliente 377,Gobierno,Ubicación 46,Empleado 81,37693.14
+Cliente 378,Pequeña Empresa,Ubicación 54,Empleado 68,17058.4
+Cliente 379,Gobierno,Ubicación 27,Empleado 33,17064.23
+Cliente 380,Corporativo,Ubicación 51,Empleado 92,43850.59
+Cliente 381,Gobierno,Ubicación 55,Empleado 16,7571.34
+Cliente 382,Pequeña Empresa,Ubicación 37,Empleado 62,13587.53
+Cliente 383,Pequeña Empresa,Ubicación 92,Empleado 52,8275.94
+Cliente 384,Corporativo,Ubicación 76,Empleado 93,37507.85
+Cliente 385,Mediana Empresa,Ubicación 99,Empleado 82,18630.36
+Cliente 386,Mediana Empresa,Ubicación 70,Empleado 5,26054.68
+Cliente 387,Corporativo,Ubicación 77,Empleado 1,20631.62
+Cliente 388,Pequeña Empresa,Ubicación 30,Empleado 12,26486.85
+Cliente 389,Pequeña Empresa,Ubicación 51,Empleado 69,32672.91
+Cliente 390,Mediana Empresa,Ubicación 5,Empleado 95,21844.43
+Cliente 391,Corporativo,Ubicación 2,Empleado 69,6935.89
+Cliente 392,Pequeña Empresa,Ubicación 41,Empleado 54,12822.09
+Cliente 393,Gobierno,Ubicación 96,Empleado 7,31284.27
+Cliente 394,Mediana Empresa,Ubicación 36,Empleado 45,36856.07
+Cliente 395,Pequeña Empresa,Ubicación 97,Empleado 62,48369.12
+Cliente 396,Corporativo,Ubicación 24,Empleado 32,13600.85
+Cliente 397,Corporativo,Ubicación 56,Empleado 26,6940.61
+Cliente 398,Corporativo,Ubicación 41,Empleado 65,14500.5
+Cliente 399,Mediana Empresa,Ubicación 21,Empleado 62,12226.89
+Cliente 400,Mediana Empresa,Ubicación 21,Empleado 89,29551.03
+Cliente 401,Mediana Empresa,Ubicación 30,Empleado 31,30411.28
+Cliente 402,Pequeña Empresa,Ubicación 94,Empleado 44,14668.47
+Cliente 403,Corporativo,Ubicación 44,Empleado 31,17767.26
+Cliente 404,Pequeña Empresa,Ubicación 25,Empleado 2,30414.19
+Cliente 405,Gobierno,Ubicación 71,Empleado 75,25366.24
+Cliente 406,Pequeña Empresa,Ubicación 90,Empleado 30,44654.71
+Cliente 407,Pequeña Empresa,Ubicación 24,Empleado 36,31037.72
+Cliente 408,Pequeña Empresa,Ubicación 70,Empleado 79,17874.57
+Cliente 409,Gobierno,Ubicación 69,Empleado 71,21916.88
+Cliente 410,Pequeña Empresa,Ubicación 26,Empleado 34,30703.43
+Cliente 411,Pequeña Empresa,Ubicación 92,Empleado 27,24609.81
+Cliente 412,Gobierno,Ubicación 23,Empleado 60,43406.48
+Cliente 413,Pequeña Empresa,Ubicación 10,Empleado 88,19148.82
+Cliente 414,Mediana Empresa,Ubicación 16,Empleado 78,882.55
+Cliente 415,Corporativo,Ubicación 21,Empleado 19,45623.79
+Cliente 416,Gobierno,Ubicación 87,Empleado 23,40739.47
+Cliente 417,Corporativo,Ubicación 66,Empleado 89,40889.08
+Cliente 418,Mediana Empresa,Ubicación 54,Empleado 15,9203.17
+Cliente 419,Mediana Empresa,Ubicación 57,Empleado 96,29184.37
+Cliente 420,Pequeña Empresa,Ubicación 59,Empleado 95,24411.23
+Cliente 421,Gobierno,Ubicación 58,Empleado 90,5177.77
+Cliente 422,Corporativo,Ubicación 11,Empleado 84,46092.74
+Cliente 423,Mediana Empresa,Ubicación 74,Empleado 60,25230.6
+Cliente 424,Corporativo,Ubicación 95,Empleado 30,34117.43
+Cliente 425,Mediana Empresa,Ubicación 78,Empleado 33,26067.41
+Cliente 426,Mediana Empresa,Ubicación 32,Empleado 35,8709.42
+Cliente 427,Corporativo,Ubicación 38,Empleado 29,44310.8
+Cliente 428,Corporativo,Ubicación 68,Empleado 96,27023.06
+Cliente 429,Corporativo,Ubicación 92,Empleado 62,45783.04
+Cliente 430,Mediana Empresa,Ubicación 74,Empleado 72,19342.55
+Cliente 431,Pequeña Empresa,Ubicación 74,Empleado 66,28923.56
+Cliente 432,Corporativo,Ubicación 25,Empleado 82,17405.61
+Cliente 433,Mediana Empresa,Ubicación 92,Empleado 49,24467.96
+Cliente 434,Mediana Empresa,Ubicación 84,Empleado 19,35172.7
+Cliente 435,Mediana Empresa,Ubicación 23,Empleado 63,47546.06
+Cliente 436,Pequeña Empresa,Ubicación 79,Empleado 95,5762.12
+Cliente 437,Gobierno,Ubicación 91,Empleado 46,23063.12
+Cliente 438,Corporativo,Ubicación 4,Empleado 35,49016.12
+Cliente 439,Gobierno,Ubicación 36,Empleado 98,18949.19
+Cliente 440,Mediana Empresa,Ubicación 35,Empleado 72,37067.88
+Cliente 441,Mediana Empresa,Ubicación 68,Empleado 50,46319.21
+Cliente 442,Pequeña Empresa,Ubicación 77,Empleado 44,36956.19
+Cliente 443,Pequeña Empresa,Ubicación 83,Empleado 53,32350.21
+Cliente 444,Mediana Empresa,Ubicación 68,Empleado 93,4537.9
+Cliente 445,Gobierno,Ubicación 49,Empleado 45,39830.42
+Cliente 446,Corporativo,Ubicación 28,Empleado 59,7553.12
+Cliente 447,Pequeña Empresa,Ubicación 19,Empleado 8,48571.78
+Cliente 448,Gobierno,Ubicación 56,Empleado 88,25582.39
+Cliente 449,Gobierno,Ubicación 26,Empleado 7,5213.24
+Cliente 450,Corporativo,Ubicación 56,Empleado 30,27664.26
+Cliente 451,Corporativo,Ubicación 58,Empleado 51,43743.16
+Cliente 452,Mediana Empresa,Ubicación 29,Empleado 84,47208.69
+Cliente 453,Mediana Empresa,Ubicación 90,Empleado 79,32588.39
+Cliente 454,Mediana Empresa,Ubicación 62,Empleado 67,27005.37
+Cliente 455,Gobierno,Ubicación 65,Empleado 58,946.13
+Cliente 456,Pequeña Empresa,Ubicación 61,Empleado 87,16931.31
+Cliente 457,Mediana Empresa,Ubicación 90,Empleado 44,31303.75
+Cliente 458,Gobierno,Ubicación 66,Empleado 4,20579.41
+Cliente 459,Mediana Empresa,Ubicación 24,Empleado 61,21801.09
+Cliente 460,Mediana Empresa,Ubicación 21,Empleado 11,16857.16
+Cliente 461,Mediana Empresa,Ubicación 41,Empleado 68,6598.69
+Cliente 462,Corporativo,Ubicación 62,Empleado 55,30881.09
+Cliente 463,Gobierno,Ubicación 72,Empleado 9,4744.63
+Cliente 464,Corporativo,Ubicación 75,Empleado 63,33299.6
+Cliente 465,Pequeña Empresa,Ubicación 21,Empleado 69,4293.26
+Cliente 466,Gobierno,Ubicación 71,Empleado 4,31706.94
+Cliente 467,Corporativo,Ubicación 41,Empleado 99,14540.87
+Cliente 468,Pequeña Empresa,Ubicación 81,Empleado 16,18191.11
+Cliente 469,Pequeña Empresa,Ubicación 92,Empleado 6,17101.11
+Cliente 470,Corporativo,Ubicación 17,Empleado 58,37284.29
+Cliente 471,Gobierno,Ubicación 35,Empleado 79,6563.52
+Cliente 472,Pequeña Empresa,Ubicación 37,Empleado 26,2471.02
+Cliente 473,Mediana Empresa,Ubicación 8,Empleado 21,29155.62
+Cliente 474,Mediana Empresa,Ubicación 85,Empleado 50,5426.48
+Cliente 475,Corporativo,Ubicación 57,Empleado 87,21605.82
+Cliente 476,Pequeña Empresa,Ubicación 23,Empleado 19,780.63
+Cliente 477,Pequeña Empresa,Ubicación 81,Empleado 3,12293.91
+Cliente 478,Pequeña Empresa,Ubicación 89,Empleado 29,2775.11
+Cliente 479,Pequeña Empresa,Ubicación 12,Empleado 9,37238.26
+Cliente 480,Gobierno,Ubicación 11,Empleado 80,29794.29
+Cliente 481,Pequeña Empresa,Ubicación 74,Empleado 12,21106.04
+Cliente 482,Gobierno,Ubicación 55,Empleado 41,35642.58
+Cliente 483,Pequeña Empresa,Ubicación 76,Empleado 29,28330.01
+Cliente 484,Mediana Empresa,Ubicación 9,Empleado 78,18177.38
+Cliente 485,Mediana Empresa,Ubicación 30,Empleado 6,47153.49
+Cliente 486,Mediana Empresa,Ubicación 7,Empleado 56,1028.61
+Cliente 487,Pequeña Empresa,Ubicación 81,Empleado 3,15691.0
+Cliente 488,Corporativo,Ubicación 55,Empleado 80,6974.58
+Cliente 489,Mediana Empresa,Ubicación 21,Empleado 28,19742.9
+Cliente 490,Mediana Empresa,Ubicación 50,Empleado 68,6904.79
+Cliente 491,Gobierno,Ubicación 30,Empleado 29,19091.34
+Cliente 492,Corporativo,Ubicación 7,Empleado 86,48790.86
+Cliente 493,Corporativo,Ubicación 17,Empleado 97,40084.6
+Cliente 494,Corporativo,Ubicación 36,Empleado 70,49270.78
+Cliente 495,Corporativo,Ubicación 19,Empleado 72,44414.73
+Cliente 496,Gobierno,Ubicación 85,Empleado 48,46027.32
+Cliente 497,Corporativo,Ubicación 39,Empleado 25,11730.55
+Cliente 498,Mediana Empresa,Ubicación 66,Empleado 84,13226.39
+Cliente 499,Corporativo,Ubicación 85,Empleado 69,36676.92
+Cliente 500,Pequeña Empresa,Ubicación 6,Empleado 32,19625.21
+Cliente 501,Mediana Empresa,Ubicación 16,Empleado 4,27651.09
+Cliente 502,Pequeña Empresa,Ubicación 64,Empleado 3,21067.58
+Cliente 503,Mediana Empresa,Ubicación 13,Empleado 82,41812.98
+Cliente 504,Mediana Empresa,Ubicación 91,Empleado 41,25379.87
+Cliente 505,Pequeña Empresa,Ubicación 35,Empleado 12,18551.44
+Cliente 506,Mediana Empresa,Ubicación 82,Empleado 77,43737.78
+Cliente 507,Mediana Empresa,Ubicación 63,Empleado 44,1474.5
+Cliente 508,Mediana Empresa,Ubicación 17,Empleado 14,12403.96
+Cliente 509,Corporativo,Ubicación 30,Empleado 81,33451.33
+Cliente 510,Mediana Empresa,Ubicación 86,Empleado 61,13977.08
+Cliente 511,Mediana Empresa,Ubicación 97,Empleado 63,19091.86
+Cliente 512,Gobierno,Ubicación 44,Empleado 13,41958.02
+Cliente 513,Corporativo,Ubicación 54,Empleado 56,27065.23
+Cliente 514,Pequeña Empresa,Ubicación 25,Empleado 44,47936.51
+Cliente 515,Gobierno,Ubicación 75,Empleado 11,4082.94
+Cliente 516,Mediana Empresa,Ubicación 1,Empleado 53,40548.8
+Cliente 517,Mediana Empresa,Ubicación 41,Empleado 16,21244.36
+Cliente 518,Gobierno,Ubicación 7,Empleado 83,46197.17
+Cliente 519,Mediana Empresa,Ubicación 29,Empleado 61,27332.66
+Cliente 520,Mediana Empresa,Ubicación 67,Empleado 36,43205.93
+Cliente 521,Pequeña Empresa,Ubicación 69,Empleado 38,45551.53
+Cliente 522,Pequeña Empresa,Ubicación 69,Empleado 93,13184.12
+Cliente 523,Gobierno,Ubicación 1,Empleado 62,28574.64
+Cliente 524,Corporativo,Ubicación 17,Empleado 49,10205.49
+Cliente 525,Mediana Empresa,Ubicación 80,Empleado 73,42875.17
+Cliente 526,Corporativo,Ubicación 91,Empleado 22,9444.6
+Cliente 527,Mediana Empresa,Ubicación 53,Empleado 49,24356.54
+Cliente 528,Corporativo,Ubicación 71,Empleado 63,37209.82
+Cliente 529,Pequeña Empresa,Ubicación 42,Empleado 10,25207.89
+Cliente 530,Gobierno,Ubicación 18,Empleado 4,46096.71
+Cliente 531,Gobierno,Ubicación 100,Empleado 85,25946.64
+Cliente 532,Corporativo,Ubicación 1,Empleado 89,37483.43
+Cliente 533,Mediana Empresa,Ubicación 49,Empleado 55,45492.67
+Cliente 534,Gobierno,Ubicación 6,Empleado 95,41780.49
+Cliente 535,Corporativo,Ubicación 97,Empleado 76,34075.22
+Cliente 536,Gobierno,Ubicación 84,Empleado 54,25515.08
+Cliente 537,Gobierno,Ubicación 28,Empleado 76,2328.23
+Cliente 538,Gobierno,Ubicación 48,Empleado 50,32154.11
+Cliente 539,Pequeña Empresa,Ubicación 56,Empleado 86,45925.15
+Cliente 540,Gobierno,Ubicación 15,Empleado 18,32887.15
+Cliente 541,Gobierno,Ubicación 43,Empleado 53,12560.76
+Cliente 542,Gobierno,Ubicación 3,Empleado 58,17955.77
+Cliente 543,Corporativo,Ubicación 55,Empleado 38,30369.49
+Cliente 544,Mediana Empresa,Ubicación 33,Empleado 4,26874.05
+Cliente 545,Gobierno,Ubicación 44,Empleado 98,22424.82
+Cliente 546,Corporativo,Ubicación 63,Empleado 100,5525.82
+Cliente 547,Pequeña Empresa,Ubicación 53,Empleado 46,27520.97
+Cliente 548,Pequeña Empresa,Ubicación 69,Empleado 70,21636.07
+Cliente 549,Mediana Empresa,Ubicación 7,Empleado 17,2643.25
+Cliente 550,Gobierno,Ubicación 78,Empleado 33,4038.08
+Cliente 551,Mediana Empresa,Ubicación 85,Empleado 88,1558.07
+Cliente 552,Gobierno,Ubicación 12,Empleado 48,21055.06
+Cliente 553,Mediana Empresa,Ubicación 1,Empleado 50,45573.39
+Cliente 554,Corporativo,Ubicación 50,Empleado 2,44382.83
+Cliente 555,Pequeña Empresa,Ubicación 93,Empleado 37,19585.31
+Cliente 556,Mediana Empresa,Ubicación 51,Empleado 84,29726.72
+Cliente 557,Gobierno,Ubicación 21,Empleado 42,8209.58
+Cliente 558,Corporativo,Ubicación 90,Empleado 87,18982.44
+Cliente 559,Gobierno,Ubicación 13,Empleado 14,15309.9
+Cliente 560,Mediana Empresa,Ubicación 49,Empleado 57,49058.21
+Cliente 561,Gobierno,Ubicación 50,Empleado 38,16534.17
+Cliente 562,Pequeña Empresa,Ubicación 39,Empleado 14,45598.46
+Cliente 563,Pequeña Empresa,Ubicación 94,Empleado 42,8770.24
+Cliente 564,Mediana Empresa,Ubicación 100,Empleado 13,35077.18
+Cliente 565,Mediana Empresa,Ubicación 99,Empleado 48,9138.57
+Cliente 566,Pequeña Empresa,Ubicación 8,Empleado 76,35899.77
+Cliente 567,Pequeña Empresa,Ubicación 84,Empleado 98,13273.02
+Cliente 568,Pequeña Empresa,Ubicación 66,Empleado 93,14547.45
+Cliente 569,Mediana Empresa,Ubicación 76,Empleado 71,21146.34
+Cliente 570,Mediana Empresa,Ubicación 92,Empleado 52,41111.02
+Cliente 571,Mediana Empresa,Ubicación 25,Empleado 35,48212.9
+Cliente 572,Mediana Empresa,Ubicación 71,Empleado 40,27184.5
+Cliente 573,Gobierno,Ubicación 63,Empleado 72,32048.46
+Cliente 574,Mediana Empresa,Ubicación 66,Empleado 79,15249.03
+Cliente 575,Mediana Empresa,Ubicación 38,Empleado 42,46065.37
+Cliente 576,Gobierno,Ubicación 21,Empleado 69,36375.15
+Cliente 577,Gobierno,Ubicación 38,Empleado 24,42191.99
+Cliente 578,Gobierno,Ubicación 99,Empleado 26,17040.19
+Cliente 579,Pequeña Empresa,Ubicación 1,Empleado 78,10219.77
+Cliente 580,Gobierno,Ubicación 35,Empleado 91,43792.76
+Cliente 581,Corporativo,Ubicación 84,Empleado 19,34038.55
+Cliente 582,Mediana Empresa,Ubicación 4,Empleado 68,29911.8
+Cliente 583,Pequeña Empresa,Ubicación 25,Empleado 71,44005.58
+Cliente 584,Gobierno,Ubicación 76,Empleado 16,32863.42
+Cliente 585,Mediana Empresa,Ubicación 25,Empleado 49,21401.38
+Cliente 586,Mediana Empresa,Ubicación 51,Empleado 19,47552.63
+Cliente 587,Corporativo,Ubicación 11,Empleado 14,36931.8
+Cliente 588,Pequeña Empresa,Ubicación 77,Empleado 72,4492.64
+Cliente 589,Corporativo,Ubicación 54,Empleado 19,22242.22
+Cliente 590,Pequeña Empresa,Ubicación 49,Empleado 83,9851.76
+Cliente 591,Pequeña Empresa,Ubicación 38,Empleado 69,27862.61
+Cliente 592,Pequeña Empresa,Ubicación 71,Empleado 79,21829.76
+Cliente 593,Gobierno,Ubicación 7,Empleado 77,11730.93
+Cliente 594,Gobierno,Ubicación 41,Empleado 82,39381.96
+Cliente 595,Corporativo,Ubicación 64,Empleado 41,11231.76
+Cliente 596,Mediana Empresa,Ubicación 35,Empleado 1,8278.31
+Cliente 597,Mediana Empresa,Ubicación 79,Empleado 25,31198.81
+Cliente 598,Gobierno,Ubicación 63,Empleado 55,3119.38
+Cliente 599,Gobierno,Ubicación 40,Empleado 58,33359.85
+Cliente 600,Mediana Empresa,Ubicación 93,Empleado 97,3957.83
+Cliente 601,Mediana Empresa,Ubicación 87,Empleado 38,37075.61
+Cliente 602,Corporativo,Ubicación 48,Empleado 40,5986.15
+Cliente 603,Gobierno,Ubicación 6,Empleado 93,10375.43
+Cliente 604,Corporativo,Ubicación 95,Empleado 6,29072.26
+Cliente 605,Gobierno,Ubicación 51,Empleado 89,40277.66
+Cliente 606,Corporativo,Ubicación 68,Empleado 9,3074.5
+Cliente 607,Gobierno,Ubicación 48,Empleado 58,17512.64
+Cliente 608,Mediana Empresa,Ubicación 41,Empleado 75,26738.22
+Cliente 609,Corporativo,Ubicación 45,Empleado 83,28799.86
+Cliente 610,Corporativo,Ubicación 56,Empleado 30,47795.55
+Cliente 611,Gobierno,Ubicación 25,Empleado 79,42287.35
+Cliente 612,Pequeña Empresa,Ubicación 23,Empleado 22,6001.25
+Cliente 613,Pequeña Empresa,Ubicación 14,Empleado 46,40997.24
+Cliente 614,Mediana Empresa,Ubicación 78,Empleado 22,38059.86
+Cliente 615,Gobierno,Ubicación 55,Empleado 98,9900.86
+Cliente 616,Mediana Empresa,Ubicación 73,Empleado 20,37153.03
+Cliente 617,Corporativo,Ubicación 79,Empleado 57,26677.69
+Cliente 618,Pequeña Empresa,Ubicación 67,Empleado 78,11132.01
+Cliente 619,Gobierno,Ubicación 41,Empleado 12,19718.0
+Cliente 620,Gobierno,Ubicación 78,Empleado 3,26277.46
+Cliente 621,Mediana Empresa,Ubicación 26,Empleado 53,18823.48
+Cliente 622,Gobierno,Ubicación 21,Empleado 20,27988.46
+Cliente 623,Mediana Empresa,Ubicación 90,Empleado 90,27565.35
+Cliente 624,Corporativo,Ubicación 93,Empleado 17,35823.32
+Cliente 625,Mediana Empresa,Ubicación 82,Empleado 14,10768.89
+Cliente 626,Mediana Empresa,Ubicación 56,Empleado 36,19959.73
+Cliente 627,Corporativo,Ubicación 66,Empleado 6,11850.31
+Cliente 628,Gobierno,Ubicación 15,Empleado 76,8908.95
+Cliente 629,Corporativo,Ubicación 37,Empleado 71,6978.15
+Cliente 630,Mediana Empresa,Ubicación 21,Empleado 95,29415.18
+Cliente 631,Mediana Empresa,Ubicación 97,Empleado 83,43153.42
+Cliente 632,Corporativo,Ubicación 42,Empleado 31,40617.51
+Cliente 633,Gobierno,Ubicación 61,Empleado 11,21492.27
+Cliente 634,Mediana Empresa,Ubicación 100,Empleado 73,40181.38
+Cliente 635,Mediana Empresa,Ubicación 94,Empleado 71,9157.9
+Cliente 636,Corporativo,Ubicación 45,Empleado 93,3810.43
+Cliente 637,Gobierno,Ubicación 56,Empleado 85,37872.44
+Cliente 638,Corporativo,Ubicación 4,Empleado 16,18924.16
+Cliente 639,Corporativo,Ubicación 37,Empleado 55,22588.66
+Cliente 640,Corporativo,Ubicación 50,Empleado 7,42732.47
+Cliente 641,Pequeña Empresa,Ubicación 72,Empleado 23,47571.9
+Cliente 642,Corporativo,Ubicación 63,Empleado 85,7129.79
+Cliente 643,Mediana Empresa,Ubicación 61,Empleado 89,43759.68
+Cliente 644,Corporativo,Ubicación 75,Empleado 5,44540.2
+Cliente 645,Pequeña Empresa,Ubicación 22,Empleado 53,47118.46
+Cliente 646,Corporativo,Ubicación 3,Empleado 92,20109.06
+Cliente 647,Corporativo,Ubicación 97,Empleado 73,31327.04
+Cliente 648,Corporativo,Ubicación 82,Empleado 18,31700.42
+Cliente 649,Mediana Empresa,Ubicación 99,Empleado 53,25269.93
+Cliente 650,Mediana Empresa,Ubicación 27,Empleado 98,27962.51
+Cliente 651,Corporativo,Ubicación 99,Empleado 70,5270.19
+Cliente 652,Gobierno,Ubicación 39,Empleado 33,10504.01
+Cliente 653,Corporativo,Ubicación 35,Empleado 1,25510.4
+Cliente 654,Corporativo,Ubicación 44,Empleado 56,13475.23
+Cliente 655,Gobierno,Ubicación 65,Empleado 12,2605.49
+Cliente 656,Gobierno,Ubicación 86,Empleado 60,18372.97
+Cliente 657,Corporativo,Ubicación 19,Empleado 71,44527.23
+Cliente 658,Mediana Empresa,Ubicación 64,Empleado 38,29697.78
+Cliente 659,Mediana Empresa,Ubicación 84,Empleado 77,6966.83
+Cliente 660,Mediana Empresa,Ubicación 47,Empleado 14,27022.51
+Cliente 661,Gobierno,Ubicación 55,Empleado 72,32389.4
+Cliente 662,Pequeña Empresa,Ubicación 2,Empleado 72,36387.87
+Cliente 663,Corporativo,Ubicación 65,Empleado 23,12433.46
+Cliente 664,Pequeña Empresa,Ubicación 54,Empleado 5,11707.47
+Cliente 665,Corporativo,Ubicación 26,Empleado 6,49984.87
+Cliente 666,Corporativo,Ubicación 83,Empleado 52,16369.04
+Cliente 667,Mediana Empresa,Ubicación 98,Empleado 85,40406.09
+Cliente 668,Corporativo,Ubicación 38,Empleado 90,2460.39
+Cliente 669,Mediana Empresa,Ubicación 51,Empleado 38,27689.19
+Cliente 670,Gobierno,Ubicación 4,Empleado 100,14523.79
+Cliente 671,Mediana Empresa,Ubicación 90,Empleado 68,11249.26
+Cliente 672,Pequeña Empresa,Ubicación 90,Empleado 56,15809.13
+Cliente 673,Mediana Empresa,Ubicación 78,Empleado 13,14045.62
+Cliente 674,Gobierno,Ubicación 56,Empleado 74,8462.56
+Cliente 675,Pequeña Empresa,Ubicación 25,Empleado 48,2931.8
+Cliente 676,Gobierno,Ubicación 70,Empleado 23,46769.43
+Cliente 677,Gobierno,Ubicación 45,Empleado 6,47765.38
+Cliente 678,Mediana Empresa,Ubicación 58,Empleado 6,43546.5
+Cliente 679,Pequeña Empresa,Ubicación 54,Empleado 32,31107.14
+Cliente 680,Gobierno,Ubicación 91,Empleado 55,35421.17
+Cliente 681,Corporativo,Ubicación 94,Empleado 90,3093.51
+Cliente 682,Corporativo,Ubicación 77,Empleado 68,45758.54
+Cliente 683,Corporativo,Ubicación 53,Empleado 28,39921.63
+Cliente 684,Gobierno,Ubicación 26,Empleado 77,31391.09
+Cliente 685,Gobierno,Ubicación 59,Empleado 51,8388.02
+Cliente 686,Pequeña Empresa,Ubicación 46,Empleado 97,13786.62
+Cliente 687,Corporativo,Ubicación 86,Empleado 46,5305.0
+Cliente 688,Pequeña Empresa,Ubicación 45,Empleado 38,30144.57
+Cliente 689,Corporativo,Ubicación 20,Empleado 81,19752.29
+Cliente 690,Gobierno,Ubicación 70,Empleado 25,14128.53
+Cliente 691,Mediana Empresa,Ubicación 63,Empleado 99,6735.25
+Cliente 692,Corporativo,Ubicación 2,Empleado 17,17219.32
+Cliente 693,Corporativo,Ubicación 22,Empleado 14,36192.14
+Cliente 694,Mediana Empresa,Ubicación 41,Empleado 11,27340.94
+Cliente 695,Corporativo,Ubicación 69,Empleado 80,35358.69
+Cliente 696,Pequeña Empresa,Ubicación 39,Empleado 54,42210.96
+Cliente 697,Corporativo,Ubicación 3,Empleado 28,29587.75
+Cliente 698,Mediana Empresa,Ubicación 93,Empleado 1,36765.35
+Cliente 699,Gobierno,Ubicación 42,Empleado 23,11918.03
+Cliente 700,Pequeña Empresa,Ubicación 21,Empleado 13,1523.5
+Cliente 701,Mediana Empresa,Ubicación 47,Empleado 76,30681.95
+Cliente 702,Gobierno,Ubicación 5,Empleado 72,30624.14
+Cliente 703,Pequeña Empresa,Ubicación 67,Empleado 45,23892.67
+Cliente 704,Corporativo,Ubicación 61,Empleado 98,22822.09
+Cliente 705,Pequeña Empresa,Ubicación 21,Empleado 25,3192.13
+Cliente 706,Gobierno,Ubicación 78,Empleado 74,34726.45
+Cliente 707,Mediana Empresa,Ubicación 95,Empleado 8,40297.12
+Cliente 708,Mediana Empresa,Ubicación 80,Empleado 76,25645.17
+Cliente 709,Mediana Empresa,Ubicación 93,Empleado 41,7329.24
+Cliente 710,Gobierno,Ubicación 7,Empleado 79,33225.85
+Cliente 711,Mediana Empresa,Ubicación 58,Empleado 83,3557.02
+Cliente 712,Pequeña Empresa,Ubicación 71,Empleado 57,37811.13
+Cliente 713,Mediana Empresa,Ubicación 57,Empleado 36,32103.48
+Cliente 714,Corporativo,Ubicación 89,Empleado 67,23943.8
+Cliente 715,Pequeña Empresa,Ubicación 58,Empleado 29,35647.36
+Cliente 716,Gobierno,Ubicación 23,Empleado 67,37609.83
+Cliente 717,Corporativo,Ubicación 99,Empleado 20,13011.18
+Cliente 718,Mediana Empresa,Ubicación 3,Empleado 98,43464.31
+Cliente 719,Pequeña Empresa,Ubicación 24,Empleado 61,3858.87
+Cliente 720,Mediana Empresa,Ubicación 65,Empleado 51,16478.01
+Cliente 721,Mediana Empresa,Ubicación 34,Empleado 92,13718.16
+Cliente 722,Pequeña Empresa,Ubicación 95,Empleado 81,29175.61
+Cliente 723,Gobierno,Ubicación 51,Empleado 12,6765.75
+Cliente 724,Gobierno,Ubicación 37,Empleado 92,11281.68
+Cliente 725,Mediana Empresa,Ubicación 16,Empleado 47,8954.88
+Cliente 726,Pequeña Empresa,Ubicación 50,Empleado 39,27355.46
+Cliente 727,Pequeña Empresa,Ubicación 99,Empleado 22,11948.24
+Cliente 728,Gobierno,Ubicación 2,Empleado 92,20122.95
+Cliente 729,Mediana Empresa,Ubicación 69,Empleado 50,35751.19
+Cliente 730,Mediana Empresa,Ubicación 30,Empleado 14,28763.75
+Cliente 731,Corporativo,Ubicación 66,Empleado 78,39759.42
+Cliente 732,Pequeña Empresa,Ubicación 88,Empleado 86,3666.72
+Cliente 733,Pequeña Empresa,Ubicación 63,Empleado 17,2311.54
+Cliente 734,Gobierno,Ubicación 90,Empleado 61,3973.02
+Cliente 735,Gobierno,Ubicación 77,Empleado 62,48694.47
+Cliente 736,Gobierno,Ubicación 71,Empleado 67,6006.28
+Cliente 737,Mediana Empresa,Ubicación 32,Empleado 69,5604.79
+Cliente 738,Pequeña Empresa,Ubicación 53,Empleado 24,43097.82
+Cliente 739,Mediana Empresa,Ubicación 35,Empleado 93,20667.5
+Cliente 740,Pequeña Empresa,Ubicación 5,Empleado 93,29708.65
+Cliente 741,Pequeña Empresa,Ubicación 80,Empleado 27,18339.41
+Cliente 742,Corporativo,Ubicación 65,Empleado 32,33153.84
+Cliente 743,Mediana Empresa,Ubicación 14,Empleado 49,4609.9
+Cliente 744,Corporativo,Ubicación 68,Empleado 68,25843.6
+Cliente 745,Pequeña Empresa,Ubicación 56,Empleado 52,7744.0
+Cliente 746,Corporativo,Ubicación 79,Empleado 93,49715.85
+Cliente 747,Gobierno,Ubicación 29,Empleado 96,48252.88
+Cliente 748,Pequeña Empresa,Ubicación 86,Empleado 51,4786.5
+Cliente 749,Pequeña Empresa,Ubicación 24,Empleado 72,5393.98
+Cliente 750,Mediana Empresa,Ubicación 8,Empleado 63,21330.27
+Cliente 751,Corporativo,Ubicación 60,Empleado 75,17579.47
+Cliente 752,Gobierno,Ubicación 19,Empleado 96,9225.16
+Cliente 753,Mediana Empresa,Ubicación 49,Empleado 77,24414.8
+Cliente 754,Pequeña Empresa,Ubicación 92,Empleado 47,27189.32
+Cliente 755,Gobierno,Ubicación 6,Empleado 84,48880.03
+Cliente 756,Gobierno,Ubicación 39,Empleado 40,17449.19
+Cliente 757,Gobierno,Ubicación 41,Empleado 6,17990.05
+Cliente 758,Corporativo,Ubicación 79,Empleado 74,36977.24
+Cliente 759,Corporativo,Ubicación 11,Empleado 16,27887.54
+Cliente 760,Pequeña Empresa,Ubicación 64,Empleado 40,26510.64
+Cliente 761,Corporativo,Ubicación 47,Empleado 27,7824.55
+Cliente 762,Gobierno,Ubicación 73,Empleado 59,13911.91
+Cliente 763,Mediana Empresa,Ubicación 24,Empleado 82,31012.45
+Cliente 764,Corporativo,Ubicación 94,Empleado 60,37573.12
+Cliente 765,Mediana Empresa,Ubicación 20,Empleado 76,20583.2
+Cliente 766,Pequeña Empresa,Ubicación 89,Empleado 22,10522.35
+Cliente 767,Pequeña Empresa,Ubicación 98,Empleado 16,14027.58
+Cliente 768,Pequeña Empresa,Ubicación 10,Empleado 5,49314.62
+Cliente 769,Mediana Empresa,Ubicación 34,Empleado 72,39052.52
+Cliente 770,Corporativo,Ubicación 87,Empleado 93,43598.01
+Cliente 771,Mediana Empresa,Ubicación 75,Empleado 28,33566.37
+Cliente 772,Corporativo,Ubicación 24,Empleado 1,34873.02
+Cliente 773,Pequeña Empresa,Ubicación 82,Empleado 40,3277.98
+Cliente 774,Mediana Empresa,Ubicación 77,Empleado 13,28300.9
+Cliente 775,Mediana Empresa,Ubicación 61,Empleado 89,23533.64
+Cliente 776,Pequeña Empresa,Ubicación 1,Empleado 47,34754.86
+Cliente 777,Pequeña Empresa,Ubicación 26,Empleado 7,21306.94
+Cliente 778,Gobierno,Ubicación 41,Empleado 11,32009.4
+Cliente 779,Mediana Empresa,Ubicación 70,Empleado 75,23414.69
+Cliente 780,Corporativo,Ubicación 56,Empleado 45,42620.06
+Cliente 781,Pequeña Empresa,Ubicación 24,Empleado 9,563.7
+Cliente 782,Mediana Empresa,Ubicación 30,Empleado 97,17700.25
+Cliente 783,Pequeña Empresa,Ubicación 13,Empleado 7,26990.2
+Cliente 784,Mediana Empresa,Ubicación 42,Empleado 16,11863.97
+Cliente 785,Pequeña Empresa,Ubicación 90,Empleado 59,41557.49
+Cliente 786,Gobierno,Ubicación 57,Empleado 71,16933.96
+Cliente 787,Gobierno,Ubicación 37,Empleado 48,26130.61
+Cliente 788,Pequeña Empresa,Ubicación 87,Empleado 82,49461.0
+Cliente 789,Gobierno,Ubicación 73,Empleado 17,39174.05
+Cliente 790,Mediana Empresa,Ubicación 52,Empleado 16,6154.49
+Cliente 791,Mediana Empresa,Ubicación 32,Empleado 61,34859.16
+Cliente 792,Pequeña Empresa,Ubicación 100,Empleado 2,3494.52
+Cliente 793,Pequeña Empresa,Ubicación 56,Empleado 81,1582.55
+Cliente 794,Corporativo,Ubicación 52,Empleado 48,29982.4
+Cliente 795,Mediana Empresa,Ubicación 90,Empleado 13,43723.08
+Cliente 796,Corporativo,Ubicación 71,Empleado 18,33209.44
+Cliente 797,Mediana Empresa,Ubicación 57,Empleado 19,39204.08
+Cliente 798,Pequeña Empresa,Ubicación 23,Empleado 72,18475.46
+Cliente 799,Gobierno,Ubicación 83,Empleado 32,8596.79
+Cliente 800,Corporativo,Ubicación 44,Empleado 84,17355.12
+Cliente 801,Pequeña Empresa,Ubicación 93,Empleado 23,5940.64
+Cliente 802,Corporativo,Ubicación 86,Empleado 81,23600.62
+Cliente 803,Mediana Empresa,Ubicación 17,Empleado 64,22594.77
+Cliente 804,Corporativo,Ubicación 1,Empleado 98,1244.56
+Cliente 805,Mediana Empresa,Ubicación 25,Empleado 28,29284.31
+Cliente 806,Gobierno,Ubicación 53,Empleado 41,31438.73
+Cliente 807,Mediana Empresa,Ubicación 3,Empleado 81,30585.69
+Cliente 808,Pequeña Empresa,Ubicación 48,Empleado 24,43052.89
+Cliente 809,Pequeña Empresa,Ubicación 6,Empleado 9,22547.04
+Cliente 810,Pequeña Empresa,Ubicación 20,Empleado 22,7055.2
+Cliente 811,Corporativo,Ubicación 100,Empleado 69,33173.66
+Cliente 812,Pequeña Empresa,Ubicación 32,Empleado 25,37801.59
+Cliente 813,Mediana Empresa,Ubicación 95,Empleado 37,3359.68
+Cliente 814,Corporativo,Ubicación 25,Empleado 7,41834.47
+Cliente 815,Corporativo,Ubicación 32,Empleado 89,42154.07
+Cliente 816,Pequeña Empresa,Ubicación 34,Empleado 96,38751.24
+Cliente 817,Mediana Empresa,Ubicación 20,Empleado 74,16094.07
+Cliente 818,Corporativo,Ubicación 60,Empleado 81,1512.34
+Cliente 819,Gobierno,Ubicación 69,Empleado 3,6582.85
+Cliente 820,Corporativo,Ubicación 92,Empleado 4,16891.79
+Cliente 821,Gobierno,Ubicación 34,Empleado 59,44127.24
+Cliente 822,Pequeña Empresa,Ubicación 98,Empleado 1,15160.64
+Cliente 823,Corporativo,Ubicación 68,Empleado 23,19503.55
+Cliente 824,Pequeña Empresa,Ubicación 98,Empleado 98,37016.15
+Cliente 825,Pequeña Empresa,Ubicación 91,Empleado 28,45452.43
+Cliente 826,Mediana Empresa,Ubicación 98,Empleado 58,33657.68
+Cliente 827,Mediana Empresa,Ubicación 22,Empleado 23,37911.0
+Cliente 828,Gobierno,Ubicación 71,Empleado 87,14150.05
+Cliente 829,Corporativo,Ubicación 2,Empleado 81,27198.95
+Cliente 830,Gobierno,Ubicación 30,Empleado 51,20264.75
+Cliente 831,Corporativo,Ubicación 7,Empleado 7,22254.3
+Cliente 832,Gobierno,Ubicación 10,Empleado 39,33146.4
+Cliente 833,Gobierno,Ubicación 97,Empleado 2,20712.01
+Cliente 834,Gobierno,Ubicación 3,Empleado 57,2357.81
+Cliente 835,Corporativo,Ubicación 37,Empleado 9,43917.19
+Cliente 836,Corporativo,Ubicación 87,Empleado 51,1496.47
+Cliente 837,Mediana Empresa,Ubicación 79,Empleado 38,27967.75
+Cliente 838,Mediana Empresa,Ubicación 28,Empleado 52,13507.33
+Cliente 839,Gobierno,Ubicación 64,Empleado 20,31716.11
+Cliente 840,Gobierno,Ubicación 75,Empleado 65,47817.28
+Cliente 841,Gobierno,Ubicación 28,Empleado 40,26269.44
+Cliente 842,Pequeña Empresa,Ubicación 54,Empleado 3,45292.74
+Cliente 843,Mediana Empresa,Ubicación 92,Empleado 21,28892.37
+Cliente 844,Pequeña Empresa,Ubicación 87,Empleado 37,32881.87
+Cliente 845,Gobierno,Ubicación 30,Empleado 66,5405.61
+Cliente 846,Gobierno,Ubicación 35,Empleado 20,44484.88
+Cliente 847,Mediana Empresa,Ubicación 7,Empleado 94,17473.28
+Cliente 848,Corporativo,Ubicación 3,Empleado 14,35139.87
+Cliente 849,Corporativo,Ubicación 28,Empleado 93,30227.72
+Cliente 850,Gobierno,Ubicación 95,Empleado 87,32709.8
+Cliente 851,Corporativo,Ubicación 79,Empleado 13,7839.07
+Cliente 852,Corporativo,Ubicación 8,Empleado 38,3662.27
+Cliente 853,Corporativo,Ubicación 13,Empleado 42,11722.44
+Cliente 854,Corporativo,Ubicación 2,Empleado 18,26372.79
+Cliente 855,Corporativo,Ubicación 35,Empleado 44,5287.66
+Cliente 856,Gobierno,Ubicación 41,Empleado 32,46514.41
+Cliente 857,Gobierno,Ubicación 86,Empleado 46,4448.2
+Cliente 858,Gobierno,Ubicación 71,Empleado 45,19330.87
+Cliente 859,Mediana Empresa,Ubicación 48,Empleado 92,37595.84
+Cliente 860,Gobierno,Ubicación 12,Empleado 31,24747.48
+Cliente 861,Corporativo,Ubicación 52,Empleado 63,35773.63
+Cliente 862,Corporativo,Ubicación 15,Empleado 47,32365.05
+Cliente 863,Mediana Empresa,Ubicación 48,Empleado 76,27916.6
+Cliente 864,Corporativo,Ubicación 61,Empleado 29,18106.21
+Cliente 865,Gobierno,Ubicación 6,Empleado 33,37016.8
+Cliente 866,Gobierno,Ubicación 52,Empleado 18,10547.83
+Cliente 867,Gobierno,Ubicación 93,Empleado 66,17069.1
+Cliente 868,Mediana Empresa,Ubicación 29,Empleado 63,12599.81
+Cliente 869,Mediana Empresa,Ubicación 36,Empleado 52,39600.46
+Cliente 870,Gobierno,Ubicación 71,Empleado 19,15084.52
+Cliente 871,Mediana Empresa,Ubicación 21,Empleado 60,23150.14
+Cliente 872,Mediana Empresa,Ubicación 81,Empleado 50,30714.51
+Cliente 873,Gobierno,Ubicación 51,Empleado 72,20029.77
+Cliente 874,Corporativo,Ubicación 85,Empleado 83,34405.75
+Cliente 875,Corporativo,Ubicación 60,Empleado 31,41601.97
+Cliente 876,Mediana Empresa,Ubicación 83,Empleado 73,46114.49
+Cliente 877,Corporativo,Ubicación 61,Empleado 47,32459.87
+Cliente 878,Pequeña Empresa,Ubicación 5,Empleado 11,9076.05
+Cliente 879,Pequeña Empresa,Ubicación 6,Empleado 85,41869.15
+Cliente 880,Mediana Empresa,Ubicación 32,Empleado 48,27214.26
+Cliente 881,Corporativo,Ubicación 94,Empleado 19,17773.01
+Cliente 882,Pequeña Empresa,Ubicación 1,Empleado 40,9369.06
+Cliente 883,Pequeña Empresa,Ubicación 49,Empleado 35,25198.6
+Cliente 884,Pequeña Empresa,Ubicación 14,Empleado 17,17332.92
+Cliente 885,Corporativo,Ubicación 59,Empleado 5,17810.64
+Cliente 886,Gobierno,Ubicación 49,Empleado 15,2009.05
+Cliente 887,Mediana Empresa,Ubicación 17,Empleado 88,42972.31
+Cliente 888,Mediana Empresa,Ubicación 51,Empleado 69,13465.66
+Cliente 889,Mediana Empresa,Ubicación 72,Empleado 87,48846.81
+Cliente 890,Pequeña Empresa,Ubicación 99,Empleado 38,5342.07
+Cliente 891,Corporativo,Ubicación 76,Empleado 33,47829.85
+Cliente 892,Mediana Empresa,Ubicación 44,Empleado 50,42300.74
+Cliente 893,Gobierno,Ubicación 16,Empleado 62,29449.32
+Cliente 894,Corporativo,Ubicación 41,Empleado 85,21110.16
+Cliente 895,Mediana Empresa,Ubicación 66,Empleado 1,24824.5
+Cliente 896,Pequeña Empresa,Ubicación 4,Empleado 22,18185.27
+Cliente 897,Pequeña Empresa,Ubicación 77,Empleado 53,12892.02
+Cliente 898,Gobierno,Ubicación 39,Empleado 68,43346.04
+Cliente 899,Mediana Empresa,Ubicación 44,Empleado 57,48344.61
+Cliente 900,Gobierno,Ubicación 11,Empleado 25,15139.39
+Cliente 901,Mediana Empresa,Ubicación 13,Empleado 4,2486.96
+Cliente 902,Gobierno,Ubicación 94,Empleado 48,37938.61
+Cliente 903,Mediana Empresa,Ubicación 35,Empleado 50,24886.33
+Cliente 904,Gobierno,Ubicación 98,Empleado 83,25294.16
+Cliente 905,Mediana Empresa,Ubicación 10,Empleado 33,1957.4
+Cliente 906,Corporativo,Ubicación 87,Empleado 76,7913.22
+Cliente 907,Pequeña Empresa,Ubicación 75,Empleado 52,41442.33
+Cliente 908,Corporativo,Ubicación 74,Empleado 39,44053.86
+Cliente 909,Pequeña Empresa,Ubicación 44,Empleado 27,26836.25
+Cliente 910,Mediana Empresa,Ubicación 43,Empleado 88,27838.77
+Cliente 911,Mediana Empresa,Ubicación 2,Empleado 30,16420.56
+Cliente 912,Gobierno,Ubicación 18,Empleado 78,25494.25
+Cliente 913,Corporativo,Ubicación 2,Empleado 84,40431.85
+Cliente 914,Pequeña Empresa,Ubicación 45,Empleado 100,36111.35
+Cliente 915,Gobierno,Ubicación 17,Empleado 68,15099.94
+Cliente 916,Pequeña Empresa,Ubicación 99,Empleado 92,18289.32
+Cliente 917,Pequeña Empresa,Ubicación 21,Empleado 98,7750.53
+Cliente 918,Gobierno,Ubicación 25,Empleado 79,2877.79
+Cliente 919,Corporativo,Ubicación 55,Empleado 98,1533.47
+Cliente 920,Corporativo,Ubicación 50,Empleado 72,29305.18
+Cliente 921,Mediana Empresa,Ubicación 56,Empleado 15,10167.49
+Cliente 922,Corporativo,Ubicación 17,Empleado 7,18847.93
+Cliente 923,Corporativo,Ubicación 25,Empleado 79,37837.6
+Cliente 924,Gobierno,Ubicación 11,Empleado 24,18004.39
+Cliente 925,Pequeña Empresa,Ubicación 73,Empleado 56,38855.28
+Cliente 926,Pequeña Empresa,Ubicación 50,Empleado 5,33819.53
+Cliente 927,Corporativo,Ubicación 83,Empleado 86,36120.47
+Cliente 928,Gobierno,Ubicación 91,Empleado 47,14162.3
+Cliente 929,Corporativo,Ubicación 95,Empleado 43,4504.81
+Cliente 930,Pequeña Empresa,Ubicación 20,Empleado 95,21806.08
+Cliente 931,Mediana Empresa,Ubicación 66,Empleado 58,4729.46
+Cliente 932,Gobierno,Ubicación 86,Empleado 43,29476.87
+Cliente 933,Mediana Empresa,Ubicación 13,Empleado 15,733.71
+Cliente 934,Mediana Empresa,Ubicación 38,Empleado 37,17029.3
+Cliente 935,Gobierno,Ubicación 99,Empleado 62,38248.59
+Cliente 936,Mediana Empresa,Ubicación 38,Empleado 39,8461.28
+Cliente 937,Gobierno,Ubicación 17,Empleado 59,32143.16
+Cliente 938,Corporativo,Ubicación 9,Empleado 32,48425.71
+Cliente 939,Mediana Empresa,Ubicación 22,Empleado 54,32309.54
+Cliente 940,Gobierno,Ubicación 2,Empleado 58,34948.51
+Cliente 941,Mediana Empresa,Ubicación 21,Empleado 59,49796.26
+Cliente 942,Mediana Empresa,Ubicación 93,Empleado 18,12372.17
+Cliente 943,Corporativo,Ubicación 35,Empleado 53,1102.78
+Cliente 944,Mediana Empresa,Ubicación 73,Empleado 49,45683.79
+Cliente 945,Mediana Empresa,Ubicación 17,Empleado 38,21395.3
+Cliente 946,Gobierno,Ubicación 59,Empleado 93,28590.31
+Cliente 947,Mediana Empresa,Ubicación 9,Empleado 22,6474.37
+Cliente 948,Gobierno,Ubicación 21,Empleado 46,39172.81
+Cliente 949,Corporativo,Ubicación 3,Empleado 82,48974.0
+Cliente 950,Gobierno,Ubicación 52,Empleado 97,13492.26
+Cliente 951,Pequeña Empresa,Ubicación 92,Empleado 55,15626.71
+Cliente 952,Gobierno,Ubicación 91,Empleado 31,743.49
+Cliente 953,Gobierno,Ubicación 29,Empleado 94,30818.22
+Cliente 954,Mediana Empresa,Ubicación 28,Empleado 73,14502.41
+Cliente 955,Pequeña Empresa,Ubicación 23,Empleado 67,38575.72
+Cliente 956,Mediana Empresa,Ubicación 29,Empleado 61,13204.92
+Cliente 957,Mediana Empresa,Ubicación 74,Empleado 4,47253.99
+Cliente 958,Corporativo,Ubicación 39,Empleado 44,28427.49
+Cliente 959,Gobierno,Ubicación 88,Empleado 94,49640.07
+Cliente 960,Corporativo,Ubicación 3,Empleado 5,9730.46
+Cliente 961,Mediana Empresa,Ubicación 37,Empleado 79,48984.05
+Cliente 962,Gobierno,Ubicación 100,Empleado 98,20350.78
+Cliente 963,Mediana Empresa,Ubicación 55,Empleado 85,30490.65
+Cliente 964,Gobierno,Ubicación 41,Empleado 95,24187.63
+Cliente 965,Gobierno,Ubicación 70,Empleado 26,12630.72
+Cliente 966,Corporativo,Ubicación 18,Empleado 18,4565.54
+Cliente 967,Mediana Empresa,Ubicación 63,Empleado 48,26554.86
+Cliente 968,Mediana Empresa,Ubicación 88,Empleado 66,1148.09
+Cliente 969,Gobierno,Ubicación 75,Empleado 71,26351.48
+Cliente 970,Pequeña Empresa,Ubicación 21,Empleado 33,25941.66
+Cliente 971,Pequeña Empresa,Ubicación 60,Empleado 67,15034.86
+Cliente 972,Gobierno,Ubicación 15,Empleado 46,16333.7
+Cliente 973,Mediana Empresa,Ubicación 11,Empleado 30,29823.27
+Cliente 974,Gobierno,Ubicación 89,Empleado 26,35065.55
+Cliente 975,Gobierno,Ubicación 94,Empleado 14,35703.83
+Cliente 976,Pequeña Empresa,Ubicación 83,Empleado 88,11691.48
+Cliente 977,Gobierno,Ubicación 97,Empleado 64,13000.02
+Cliente 978,Gobierno,Ubicación 79,Empleado 75,38142.48
+Cliente 979,Pequeña Empresa,Ubicación 86,Empleado 27,42691.42
+Cliente 980,Gobierno,Ubicación 100,Empleado 41,622.59
+Cliente 981,Gobierno,Ubicación 18,Empleado 21,31772.58
+Cliente 982,Mediana Empresa,Ubicación 32,Empleado 49,30427.33
+Cliente 983,Gobierno,Ubicación 6,Empleado 93,27725.82
+Cliente 984,Mediana Empresa,Ubicación 82,Empleado 68,19254.49
+Cliente 985,Gobierno,Ubicación 70,Empleado 33,34767.67
+Cliente 986,Corporativo,Ubicación 65,Empleado 38,8830.67
+Cliente 987,Gobierno,Ubicación 78,Empleado 34,33267.38
+Cliente 988,Gobierno,Ubicación 38,Empleado 88,25031.78
+Cliente 989,Gobierno,Ubicación 6,Empleado 13,16003.04
+Cliente 990,Gobierno,Ubicación 6,Empleado 60,10389.19
+Cliente 991,Gobierno,Ubicación 65,Empleado 62,2422.61
+Cliente 992,Corporativo,Ubicación 66,Empleado 90,49923.89
+Cliente 993,Corporativo,Ubicación 79,Empleado 98,23954.91
+Cliente 994,Pequeña Empresa,Ubicación 5,Empleado 60,37456.63
+Cliente 995,Mediana Empresa,Ubicación 26,Empleado 100,14837.88
+Cliente 996,Corporativo,Ubicación 94,Empleado 77,21605.73
+Cliente 997,Pequeña Empresa,Ubicación 72,Empleado 50,22584.3
+Cliente 998,Mediana Empresa,Ubicación 64,Empleado 90,12919.0
+Cliente 999,Corporativo,Ubicación 8,Empleado 26,36406.17
+Cliente 1000,Pequeña Empresa,Ubicación 100,Empleado 25,11734.12
+Cliente 1001,Gobierno,Ubicación 47,Empleado 15,36240.64
+Cliente 1002,Mediana Empresa,Ubicación 62,Empleado 61,21408.52
+Cliente 1003,Mediana Empresa,Ubicación 80,Empleado 49,6994.86
+Cliente 1004,Pequeña Empresa,Ubicación 64,Empleado 54,2400.09
+Cliente 1005,Gobierno,Ubicación 61,Empleado 86,37699.75
+Cliente 1006,Mediana Empresa,Ubicación 54,Empleado 78,34714.82
+Cliente 1007,Corporativo,Ubicación 89,Empleado 71,41003.05
+Cliente 1008,Mediana Empresa,Ubicación 83,Empleado 29,37311.81
+Cliente 1009,Mediana Empresa,Ubicación 73,Empleado 73,37868.96
+Cliente 1010,Gobierno,Ubicación 30,Empleado 66,23718.91
+Cliente 1011,Corporativo,Ubicación 51,Empleado 82,32191.47
+Cliente 1012,Corporativo,Ubicación 94,Empleado 86,2546.1
+Cliente 1013,Corporativo,Ubicación 93,Empleado 14,3010.84
+Cliente 1014,Pequeña Empresa,Ubicación 45,Empleado 96,36119.35
+Cliente 1015,Mediana Empresa,Ubicación 96,Empleado 55,36400.28
+Cliente 1016,Mediana Empresa,Ubicación 35,Empleado 36,7325.56
+Cliente 1017,Gobierno,Ubicación 31,Empleado 68,16778.65
+Cliente 1018,Pequeña Empresa,Ubicación 6,Empleado 76,40322.11
+Cliente 1019,Pequeña Empresa,Ubicación 56,Empleado 11,9252.51
+Cliente 1020,Mediana Empresa,Ubicación 51,Empleado 23,17839.94
+Cliente 1021,Pequeña Empresa,Ubicación 77,Empleado 4,14530.78
+Cliente 1022,Corporativo,Ubicación 90,Empleado 82,37196.11
+Cliente 1023,Mediana Empresa,Ubicación 18,Empleado 22,33339.06
+Cliente 1024,Corporativo,Ubicación 79,Empleado 81,37200.09
+Cliente 1025,Corporativo,Ubicación 66,Empleado 78,19031.78
+Cliente 1026,Pequeña Empresa,Ubicación 92,Empleado 56,32037.7
+Cliente 1027,Gobierno,Ubicación 45,Empleado 28,36417.6
+Cliente 1028,Gobierno,Ubicación 62,Empleado 4,47188.88
+Cliente 1029,Gobierno,Ubicación 84,Empleado 98,2283.23
+Cliente 1030,Pequeña Empresa,Ubicación 39,Empleado 71,13783.79
+Cliente 1031,Pequeña Empresa,Ubicación 87,Empleado 54,40399.61
+Cliente 1032,Corporativo,Ubicación 54,Empleado 3,12758.48
+Cliente 1033,Mediana Empresa,Ubicación 72,Empleado 68,35689.76
+Cliente 1034,Gobierno,Ubicación 37,Empleado 97,17880.38
+Cliente 1035,Gobierno,Ubicación 70,Empleado 27,43877.42
+Cliente 1036,Mediana Empresa,Ubicación 19,Empleado 77,9162.16
+Cliente 1037,Corporativo,Ubicación 58,Empleado 1,8626.22
+Cliente 1038,Gobierno,Ubicación 48,Empleado 46,8611.18
+Cliente 1039,Gobierno,Ubicación 70,Empleado 30,9592.37
+Cliente 1040,Corporativo,Ubicación 42,Empleado 39,43752.48
+Cliente 1041,Corporativo,Ubicación 72,Empleado 33,29641.55
+Cliente 1042,Pequeña Empresa,Ubicación 50,Empleado 75,30990.0
+Cliente 1043,Mediana Empresa,Ubicación 40,Empleado 34,28899.59
+Cliente 1044,Corporativo,Ubicación 94,Empleado 65,41960.72
+Cliente 1045,Gobierno,Ubicación 38,Empleado 83,39156.81
+Cliente 1046,Gobierno,Ubicación 90,Empleado 50,31890.37
+Cliente 1047,Pequeña Empresa,Ubicación 11,Empleado 95,10090.74
+Cliente 1048,Mediana Empresa,Ubicación 30,Empleado 16,11251.16
+Cliente 1049,Pequeña Empresa,Ubicación 39,Empleado 26,36163.36
+Cliente 1050,Pequeña Empresa,Ubicación 2,Empleado 61,39406.08
+Cliente 1051,Pequeña Empresa,Ubicación 87,Empleado 34,47768.97
+Cliente 1052,Mediana Empresa,Ubicación 93,Empleado 48,33992.78
+Cliente 1053,Corporativo,Ubicación 31,Empleado 39,12200.76
+Cliente 1054,Pequeña Empresa,Ubicación 52,Empleado 83,8784.27
+Cliente 1055,Pequeña Empresa,Ubicación 54,Empleado 3,34426.05
+Cliente 1056,Corporativo,Ubicación 36,Empleado 13,19216.49
+Cliente 1057,Gobierno,Ubicación 23,Empleado 52,5158.07
+Cliente 1058,Mediana Empresa,Ubicación 93,Empleado 61,5535.71
+Cliente 1059,Mediana Empresa,Ubicación 78,Empleado 88,44426.99
+Cliente 1060,Gobierno,Ubicación 86,Empleado 42,31050.92
+Cliente 1061,Gobierno,Ubicación 6,Empleado 86,859.53
+Cliente 1062,Mediana Empresa,Ubicación 62,Empleado 61,26417.86
+Cliente 1063,Corporativo,Ubicación 96,Empleado 62,15741.58
+Cliente 1064,Mediana Empresa,Ubicación 94,Empleado 56,15377.18
+Cliente 1065,Gobierno,Ubicación 48,Empleado 29,46203.57
+Cliente 1066,Gobierno,Ubicación 84,Empleado 15,16418.36
+Cliente 1067,Mediana Empresa,Ubicación 94,Empleado 94,46336.17
+Cliente 1068,Pequeña Empresa,Ubicación 78,Empleado 23,27148.1
+Cliente 1069,Corporativo,Ubicación 4,Empleado 11,4404.99
+Cliente 1070,Pequeña Empresa,Ubicación 98,Empleado 25,16954.08
+Cliente 1071,Mediana Empresa,Ubicación 77,Empleado 75,47081.9
+Cliente 1072,Gobierno,Ubicación 99,Empleado 32,10086.67
+Cliente 1073,Corporativo,Ubicación 47,Empleado 89,11151.25
+Cliente 1074,Pequeña Empresa,Ubicación 53,Empleado 86,49017.32
+Cliente 1075,Pequeña Empresa,Ubicación 31,Empleado 59,16411.93
+Cliente 1076,Pequeña Empresa,Ubicación 95,Empleado 52,18625.46
+Cliente 1077,Pequeña Empresa,Ubicación 17,Empleado 45,44909.95
+Cliente 1078,Corporativo,Ubicación 35,Empleado 20,36201.02
+Cliente 1079,Pequeña Empresa,Ubicación 84,Empleado 2,45674.27
+Cliente 1080,Corporativo,Ubicación 29,Empleado 80,46953.29
+Cliente 1081,Mediana Empresa,Ubicación 2,Empleado 37,48167.25
+Cliente 1082,Gobierno,Ubicación 60,Empleado 44,8211.01
+Cliente 1083,Mediana Empresa,Ubicación 6,Empleado 85,27074.64
+Cliente 1084,Gobierno,Ubicación 100,Empleado 90,16488.93
+Cliente 1085,Pequeña Empresa,Ubicación 97,Empleado 86,36844.53
+Cliente 1086,Gobierno,Ubicación 46,Empleado 31,10043.46
+Cliente 1087,Corporativo,Ubicación 3,Empleado 62,45135.71
+Cliente 1088,Pequeña Empresa,Ubicación 72,Empleado 79,34404.3
+Cliente 1089,Mediana Empresa,Ubicación 2,Empleado 99,38584.38
+Cliente 1090,Gobierno,Ubicación 48,Empleado 21,18083.14
+Cliente 1091,Mediana Empresa,Ubicación 87,Empleado 72,38306.14
+Cliente 1092,Pequeña Empresa,Ubicación 79,Empleado 18,13472.81
+Cliente 1093,Pequeña Empresa,Ubicación 29,Empleado 47,40910.39
+Cliente 1094,Corporativo,Ubicación 63,Empleado 69,36931.21
+Cliente 1095,Mediana Empresa,Ubicación 61,Empleado 65,41558.13
+Cliente 1096,Corporativo,Ubicación 98,Empleado 88,7555.13
+Cliente 1097,Corporativo,Ubicación 24,Empleado 36,27280.4
+Cliente 1098,Gobierno,Ubicación 19,Empleado 72,32945.28
+Cliente 1099,Mediana Empresa,Ubicación 54,Empleado 94,3502.78
+Cliente 1100,Pequeña Empresa,Ubicación 28,Empleado 25,36435.99
+Cliente 1101,Gobierno,Ubicación 47,Empleado 100,29975.04
+Cliente 1102,Corporativo,Ubicación 8,Empleado 29,48506.92
+Cliente 1103,Corporativo,Ubicación 1,Empleado 10,32096.75
+Cliente 1104,Pequeña Empresa,Ubicación 18,Empleado 80,26542.64
+Cliente 1105,Pequeña Empresa,Ubicación 59,Empleado 64,39132.16
+Cliente 1106,Pequeña Empresa,Ubicación 85,Empleado 42,38400.62
+Cliente 1107,Gobierno,Ubicación 15,Empleado 66,42262.97
+Cliente 1108,Mediana Empresa,Ubicación 78,Empleado 87,33980.58
+Cliente 1109,Pequeña Empresa,Ubicación 58,Empleado 74,21292.36
+Cliente 1110,Pequeña Empresa,Ubicación 85,Empleado 64,16536.52
+Cliente 1111,Gobierno,Ubicación 38,Empleado 91,10182.7
+Cliente 1112,Gobierno,Ubicación 85,Empleado 31,13215.53
+Cliente 1113,Corporativo,Ubicación 25,Empleado 52,48942.42
+Cliente 1114,Pequeña Empresa,Ubicación 24,Empleado 88,49018.72
+Cliente 1115,Corporativo,Ubicación 59,Empleado 41,10335.67
+Cliente 1116,Corporativo,Ubicación 30,Empleado 14,47940.91
+Cliente 1117,Pequeña Empresa,Ubicación 7,Empleado 60,27254.03
+Cliente 1118,Mediana Empresa,Ubicación 80,Empleado 98,33329.81
+Cliente 1119,Mediana Empresa,Ubicación 46,Empleado 92,48331.36
+Cliente 1120,Pequeña Empresa,Ubicación 74,Empleado 77,14867.66
+Cliente 1121,Mediana Empresa,Ubicación 70,Empleado 98,30213.9
+Cliente 1122,Mediana Empresa,Ubicación 32,Empleado 84,25224.23
+Cliente 1123,Mediana Empresa,Ubicación 60,Empleado 96,31247.48
+Cliente 1124,Pequeña Empresa,Ubicación 11,Empleado 25,44875.66
+Cliente 1125,Mediana Empresa,Ubicación 87,Empleado 40,14401.94
+Cliente 1126,Pequeña Empresa,Ubicación 89,Empleado 42,29393.96
+Cliente 1127,Gobierno,Ubicación 49,Empleado 78,43894.43
+Cliente 1128,Pequeña Empresa,Ubicación 2,Empleado 16,13107.68
+Cliente 1129,Mediana Empresa,Ubicación 75,Empleado 69,28926.2
+Cliente 1130,Pequeña Empresa,Ubicación 11,Empleado 59,41063.82
+Cliente 1131,Corporativo,Ubicación 31,Empleado 93,5310.84
+Cliente 1132,Gobierno,Ubicación 8,Empleado 80,35270.13
+Cliente 1133,Corporativo,Ubicación 87,Empleado 23,49805.02
+Cliente 1134,Mediana Empresa,Ubicación 66,Empleado 100,15142.81
+Cliente 1135,Gobierno,Ubicación 77,Empleado 46,13973.26
+Cliente 1136,Corporativo,Ubicación 98,Empleado 50,26475.18
+Cliente 1137,Gobierno,Ubicación 66,Empleado 67,30096.76
+Cliente 1138,Gobierno,Ubicación 33,Empleado 12,45770.5
+Cliente 1139,Mediana Empresa,Ubicación 43,Empleado 29,34192.61
+Cliente 1140,Corporativo,Ubicación 62,Empleado 84,3917.14
+Cliente 1141,Gobierno,Ubicación 55,Empleado 56,12330.82
+Cliente 1142,Mediana Empresa,Ubicación 75,Empleado 67,12806.06
+Cliente 1143,Gobierno,Ubicación 31,Empleado 69,38461.3
+Cliente 1144,Corporativo,Ubicación 62,Empleado 57,12574.19
+Cliente 1145,Pequeña Empresa,Ubicación 82,Empleado 21,7436.59
+Cliente 1146,Mediana Empresa,Ubicación 77,Empleado 40,5890.21
+Cliente 1147,Gobierno,Ubicación 58,Empleado 95,1548.82
+Cliente 1148,Corporativo,Ubicación 23,Empleado 11,48904.32
+Cliente 1149,Pequeña Empresa,Ubicación 85,Empleado 24,41888.84
+Cliente 1150,Mediana Empresa,Ubicación 91,Empleado 43,34613.51
+Cliente 1151,Corporativo,Ubicación 46,Empleado 38,15297.39
+Cliente 1152,Mediana Empresa,Ubicación 84,Empleado 23,4271.93
+Cliente 1153,Corporativo,Ubicación 22,Empleado 55,44746.79
+Cliente 1154,Gobierno,Ubicación 25,Empleado 42,4908.66
+Cliente 1155,Corporativo,Ubicación 74,Empleado 87,14864.37
+Cliente 1156,Pequeña Empresa,Ubicación 68,Empleado 66,46292.51
+Cliente 1157,Corporativo,Ubicación 55,Empleado 66,24204.2
+Cliente 1158,Corporativo,Ubicación 98,Empleado 19,25984.87
+Cliente 1159,Corporativo,Ubicación 61,Empleado 87,29260.58
+Cliente 1160,Gobierno,Ubicación 54,Empleado 20,35093.6
+Cliente 1161,Pequeña Empresa,Ubicación 86,Empleado 72,19800.19
+Cliente 1162,Pequeña Empresa,Ubicación 37,Empleado 88,9543.56
+Cliente 1163,Corporativo,Ubicación 51,Empleado 2,31985.29
+Cliente 1164,Gobierno,Ubicación 64,Empleado 87,4848.91
+Cliente 1165,Mediana Empresa,Ubicación 55,Empleado 23,23091.58
+Cliente 1166,Mediana Empresa,Ubicación 51,Empleado 96,39174.66
+Cliente 1167,Corporativo,Ubicación 89,Empleado 21,2071.51
+Cliente 1168,Corporativo,Ubicación 2,Empleado 84,20859.75
+Cliente 1169,Corporativo,Ubicación 34,Empleado 15,25802.51
+Cliente 1170,Mediana Empresa,Ubicación 51,Empleado 59,29981.45
+Cliente 1171,Gobierno,Ubicación 22,Empleado 32,44647.55
+Cliente 1172,Mediana Empresa,Ubicación 85,Empleado 82,15768.02
+Cliente 1173,Mediana Empresa,Ubicación 83,Empleado 7,26016.97
+Cliente 1174,Gobierno,Ubicación 43,Empleado 29,24038.79
+Cliente 1175,Mediana Empresa,Ubicación 22,Empleado 73,40581.39
+Cliente 1176,Gobierno,Ubicación 76,Empleado 14,4745.71
+Cliente 1177,Gobierno,Ubicación 71,Empleado 56,36087.69
+Cliente 1178,Pequeña Empresa,Ubicación 56,Empleado 38,18449.17
+Cliente 1179,Pequeña Empresa,Ubicación 26,Empleado 84,975.58
+Cliente 1180,Pequeña Empresa,Ubicación 99,Empleado 100,7440.27
+Cliente 1181,Corporativo,Ubicación 73,Empleado 7,8452.35
+Cliente 1182,Corporativo,Ubicación 56,Empleado 23,28950.86
+Cliente 1183,Pequeña Empresa,Ubicación 32,Empleado 44,14490.51
+Cliente 1184,Mediana Empresa,Ubicación 46,Empleado 8,19077.91
+Cliente 1185,Corporativo,Ubicación 94,Empleado 85,27821.9
+Cliente 1186,Mediana Empresa,Ubicación 78,Empleado 14,40240.66
+Cliente 1187,Mediana Empresa,Ubicación 70,Empleado 26,43544.98
+Cliente 1188,Corporativo,Ubicación 52,Empleado 94,47322.14
+Cliente 1189,Pequeña Empresa,Ubicación 72,Empleado 57,26889.04
+Cliente 1190,Gobierno,Ubicación 54,Empleado 92,11086.51
+Cliente 1191,Corporativo,Ubicación 85,Empleado 80,32256.08
+Cliente 1192,Gobierno,Ubicación 16,Empleado 76,48245.96
+Cliente 1193,Gobierno,Ubicación 75,Empleado 92,10273.16
+Cliente 1194,Corporativo,Ubicación 41,Empleado 89,37582.67
+Cliente 1195,Corporativo,Ubicación 45,Empleado 30,32267.49
+Cliente 1196,Pequeña Empresa,Ubicación 84,Empleado 92,10107.67
+Cliente 1197,Mediana Empresa,Ubicación 98,Empleado 62,48903.11
+Cliente 1198,Gobierno,Ubicación 18,Empleado 71,39292.46
+Cliente 1199,Mediana Empresa,Ubicación 71,Empleado 36,47150.94
+Cliente 1200,Corporativo,Ubicación 41,Empleado 3,15189.44
+Cliente 1201,Corporativo,Ubicación 84,Empleado 76,48235.71
+Cliente 1202,Pequeña Empresa,Ubicación 1,Empleado 82,48732.28
+Cliente 1203,Gobierno,Ubicación 34,Empleado 83,43834.64
+Cliente 1204,Gobierno,Ubicación 38,Empleado 61,32798.9
+Cliente 1205,Corporativo,Ubicación 52,Empleado 96,31923.12
+Cliente 1206,Gobierno,Ubicación 63,Empleado 93,27499.04
+Cliente 1207,Gobierno,Ubicación 24,Empleado 36,31992.46
+Cliente 1208,Corporativo,Ubicación 72,Empleado 85,34408.45
+Cliente 1209,Mediana Empresa,Ubicación 25,Empleado 10,15925.62
+Cliente 1210,Corporativo,Ubicación 60,Empleado 67,20777.76
+Cliente 1211,Pequeña Empresa,Ubicación 98,Empleado 28,45168.93
+Cliente 1212,Gobierno,Ubicación 17,Empleado 84,22217.44
+Cliente 1213,Gobierno,Ubicación 86,Empleado 15,17801.06
+Cliente 1214,Mediana Empresa,Ubicación 70,Empleado 98,15526.57
+Cliente 1215,Pequeña Empresa,Ubicación 43,Empleado 66,11109.88
+Cliente 1216,Gobierno,Ubicación 43,Empleado 21,49169.93
+Cliente 1217,Mediana Empresa,Ubicación 57,Empleado 67,12901.14
+Cliente 1218,Pequeña Empresa,Ubicación 1,Empleado 9,30218.03
+Cliente 1219,Mediana Empresa,Ubicación 50,Empleado 82,14055.9
+Cliente 1220,Mediana Empresa,Ubicación 7,Empleado 91,1142.17
+Cliente 1221,Mediana Empresa,Ubicación 83,Empleado 52,2819.68
+Cliente 1222,Pequeña Empresa,Ubicación 77,Empleado 93,3823.73
+Cliente 1223,Pequeña Empresa,Ubicación 40,Empleado 65,43687.82
+Cliente 1224,Mediana Empresa,Ubicación 21,Empleado 12,21071.55
+Cliente 1225,Corporativo,Ubicación 84,Empleado 90,17218.22
+Cliente 1226,Mediana Empresa,Ubicación 35,Empleado 74,17388.3
+Cliente 1227,Corporativo,Ubicación 41,Empleado 6,16580.15
+Cliente 1228,Mediana Empresa,Ubicación 74,Empleado 26,37991.92
+Cliente 1229,Gobierno,Ubicación 14,Empleado 96,13974.07
+Cliente 1230,Gobierno,Ubicación 26,Empleado 83,35754.72
+Cliente 1231,Corporativo,Ubicación 77,Empleado 72,34286.31
+Cliente 1232,Pequeña Empresa,Ubicación 24,Empleado 37,1861.18
+Cliente 1233,Gobierno,Ubicación 8,Empleado 36,40597.72
+Cliente 1234,Gobierno,Ubicación 96,Empleado 3,37698.93
+Cliente 1235,Pequeña Empresa,Ubicación 5,Empleado 11,10332.09
+Cliente 1236,Pequeña Empresa,Ubicación 57,Empleado 93,42974.05
+Cliente 1237,Gobierno,Ubicación 1,Empleado 9,29278.67
+Cliente 1238,Gobierno,Ubicación 35,Empleado 25,43726.99
+Cliente 1239,Gobierno,Ubicación 59,Empleado 10,23600.64
+Cliente 1240,Gobierno,Ubicación 46,Empleado 54,20193.29
+Cliente 1241,Gobierno,Ubicación 50,Empleado 47,10235.89
+Cliente 1242,Pequeña Empresa,Ubicación 35,Empleado 95,46637.96
+Cliente 1243,Pequeña Empresa,Ubicación 48,Empleado 29,20705.68
+Cliente 1244,Gobierno,Ubicación 78,Empleado 79,18905.02
+Cliente 1245,Mediana Empresa,Ubicación 76,Empleado 27,35821.67
+Cliente 1246,Corporativo,Ubicación 67,Empleado 50,16195.74
+Cliente 1247,Gobierno,Ubicación 88,Empleado 50,43987.58
+Cliente 1248,Pequeña Empresa,Ubicación 49,Empleado 85,14067.37
+Cliente 1249,Gobierno,Ubicación 66,Empleado 75,7136.42
+Cliente 1250,Gobierno,Ubicación 10,Empleado 100,19574.23
+Cliente 1251,Corporativo,Ubicación 57,Empleado 85,11535.52
+Cliente 1252,Mediana Empresa,Ubicación 78,Empleado 32,34515.59
+Cliente 1253,Corporativo,Ubicación 99,Empleado 85,7288.62
+Cliente 1254,Mediana Empresa,Ubicación 86,Empleado 2,23642.7
+Cliente 1255,Corporativo,Ubicación 95,Empleado 6,27942.35
+Cliente 1256,Mediana Empresa,Ubicación 92,Empleado 99,2822.75
+Cliente 1257,Mediana Empresa,Ubicación 68,Empleado 80,11668.2
+Cliente 1258,Gobierno,Ubicación 25,Empleado 40,22260.51
+Cliente 1259,Gobierno,Ubicación 38,Empleado 46,3597.58
+Cliente 1260,Pequeña Empresa,Ubicación 19,Empleado 17,5930.3
+Cliente 1261,Corporativo,Ubicación 8,Empleado 97,38726.77
+Cliente 1262,Corporativo,Ubicación 17,Empleado 34,31986.47
+Cliente 1263,Gobierno,Ubicación 2,Empleado 53,15622.75
+Cliente 1264,Corporativo,Ubicación 61,Empleado 64,45384.1
+Cliente 1265,Mediana Empresa,Ubicación 18,Empleado 70,38996.22
+Cliente 1266,Mediana Empresa,Ubicación 96,Empleado 47,24816.98
+Cliente 1267,Mediana Empresa,Ubicación 24,Empleado 6,38803.16
+Cliente 1268,Mediana Empresa,Ubicación 24,Empleado 53,8024.04
+Cliente 1269,Mediana Empresa,Ubicación 22,Empleado 92,33829.29
+Cliente 1270,Gobierno,Ubicación 72,Empleado 11,46930.51
+Cliente 1271,Pequeña Empresa,Ubicación 86,Empleado 20,39974.36
+Cliente 1272,Mediana Empresa,Ubicación 63,Empleado 13,44195.61
+Cliente 1273,Gobierno,Ubicación 24,Empleado 45,28663.01
+Cliente 1274,Mediana Empresa,Ubicación 81,Empleado 82,39275.82
+Cliente 1275,Mediana Empresa,Ubicación 92,Empleado 50,18619.78
+Cliente 1276,Gobierno,Ubicación 4,Empleado 23,2709.83
+Cliente 1277,Gobierno,Ubicación 60,Empleado 82,34531.7
+Cliente 1278,Pequeña Empresa,Ubicación 18,Empleado 28,4455.59
+Cliente 1279,Mediana Empresa,Ubicación 59,Empleado 47,4635.49
+Cliente 1280,Gobierno,Ubicación 90,Empleado 9,1767.64
+Cliente 1281,Corporativo,Ubicación 11,Empleado 89,19468.9
+Cliente 1282,Pequeña Empresa,Ubicación 86,Empleado 48,23741.01
+Cliente 1283,Mediana Empresa,Ubicación 45,Empleado 89,22776.88
+Cliente 1284,Corporativo,Ubicación 98,Empleado 21,45041.74
+Cliente 1285,Corporativo,Ubicación 79,Empleado 82,7466.6
+Cliente 1286,Gobierno,Ubicación 76,Empleado 84,43002.47
+Cliente 1287,Mediana Empresa,Ubicación 12,Empleado 98,36439.09
+Cliente 1288,Gobierno,Ubicación 47,Empleado 73,9866.95
+Cliente 1289,Pequeña Empresa,Ubicación 35,Empleado 27,43365.46
+Cliente 1290,Mediana Empresa,Ubicación 30,Empleado 69,31355.49
+Cliente 1291,Gobierno,Ubicación 40,Empleado 27,9103.64
+Cliente 1292,Corporativo,Ubicación 4,Empleado 77,11862.3
+Cliente 1293,Pequeña Empresa,Ubicación 57,Empleado 42,16608.63
+Cliente 1294,Corporativo,Ubicación 47,Empleado 24,4518.31
+Cliente 1295,Corporativo,Ubicación 69,Empleado 46,22227.0
+Cliente 1296,Corporativo,Ubicación 3,Empleado 40,9536.21
+Cliente 1297,Pequeña Empresa,Ubicación 89,Empleado 15,2245.65
+Cliente 1298,Gobierno,Ubicación 61,Empleado 87,29515.37
+Cliente 1299,Corporativo,Ubicación 15,Empleado 15,43558.37
+Cliente 1300,Corporativo,Ubicación 56,Empleado 43,30333.58
+Cliente 1301,Pequeña Empresa,Ubicación 74,Empleado 30,6151.52
+Cliente 1302,Mediana Empresa,Ubicación 71,Empleado 35,15571.33
+Cliente 1303,Mediana Empresa,Ubicación 80,Empleado 79,28915.3
+Cliente 1304,Pequeña Empresa,Ubicación 68,Empleado 43,8609.42
+Cliente 1305,Mediana Empresa,Ubicación 79,Empleado 56,38105.53
+Cliente 1306,Corporativo,Ubicación 82,Empleado 18,47402.41
+Cliente 1307,Pequeña Empresa,Ubicación 25,Empleado 4,39540.7
+Cliente 1308,Corporativo,Ubicación 48,Empleado 56,43057.57
+Cliente 1309,Corporativo,Ubicación 93,Empleado 87,40887.23
+Cliente 1310,Pequeña Empresa,Ubicación 10,Empleado 17,24473.51
+Cliente 1311,Corporativo,Ubicación 42,Empleado 6,48551.6
+Cliente 1312,Mediana Empresa,Ubicación 2,Empleado 18,19192.81
+Cliente 1313,Pequeña Empresa,Ubicación 87,Empleado 27,16300.22
+Cliente 1314,Corporativo,Ubicación 20,Empleado 34,10049.26
+Cliente 1315,Pequeña Empresa,Ubicación 21,Empleado 87,801.81
+Cliente 1316,Corporativo,Ubicación 13,Empleado 78,30277.27
+Cliente 1317,Mediana Empresa,Ubicación 58,Empleado 18,13058.7
+Cliente 1318,Corporativo,Ubicación 76,Empleado 6,9009.74
+Cliente 1319,Pequeña Empresa,Ubicación 93,Empleado 41,16315.99
+Cliente 1320,Gobierno,Ubicación 21,Empleado 30,32994.08
+Cliente 1321,Corporativo,Ubicación 72,Empleado 23,44725.07
+Cliente 1322,Mediana Empresa,Ubicación 1,Empleado 76,22278.63
+Cliente 1323,Gobierno,Ubicación 45,Empleado 15,19180.29
+Cliente 1324,Mediana Empresa,Ubicación 33,Empleado 7,17529.28
+Cliente 1325,Gobierno,Ubicación 27,Empleado 71,25297.05
+Cliente 1326,Mediana Empresa,Ubicación 12,Empleado 96,44189.75
+Cliente 1327,Corporativo,Ubicación 30,Empleado 41,9553.62
+Cliente 1328,Corporativo,Ubicación 41,Empleado 7,20884.0
+Cliente 1329,Mediana Empresa,Ubicación 54,Empleado 49,12093.67
+Cliente 1330,Gobierno,Ubicación 2,Empleado 75,668.77
+Cliente 1331,Gobierno,Ubicación 5,Empleado 5,12058.1
+Cliente 1332,Mediana Empresa,Ubicación 15,Empleado 64,12381.34
+Cliente 1333,Mediana Empresa,Ubicación 30,Empleado 37,22477.96
+Cliente 1334,Pequeña Empresa,Ubicación 7,Empleado 16,35382.54
+Cliente 1335,Corporativo,Ubicación 36,Empleado 86,38440.2
+Cliente 1336,Gobierno,Ubicación 95,Empleado 51,937.28
+Cliente 1337,Corporativo,Ubicación 53,Empleado 74,26388.94
+Cliente 1338,Mediana Empresa,Ubicación 78,Empleado 31,1954.0
+Cliente 1339,Pequeña Empresa,Ubicación 24,Empleado 38,16915.56
+Cliente 1340,Gobierno,Ubicación 68,Empleado 26,31325.95
+Cliente 1341,Corporativo,Ubicación 83,Empleado 14,2417.17
+Cliente 1342,Gobierno,Ubicación 55,Empleado 40,41292.4
+Cliente 1343,Pequeña Empresa,Ubicación 57,Empleado 28,25962.72
+Cliente 1344,Gobierno,Ubicación 16,Empleado 68,23628.07
+Cliente 1345,Corporativo,Ubicación 15,Empleado 11,16326.3
+Cliente 1346,Mediana Empresa,Ubicación 55,Empleado 73,37351.13
+Cliente 1347,Mediana Empresa,Ubicación 49,Empleado 42,32123.93
+Cliente 1348,Pequeña Empresa,Ubicación 67,Empleado 23,38779.33
+Cliente 1349,Pequeña Empresa,Ubicación 87,Empleado 96,43980.14
+Cliente 1350,Corporativo,Ubicación 18,Empleado 22,47976.96
+Cliente 1351,Mediana Empresa,Ubicación 72,Empleado 11,46796.1
+Cliente 1352,Gobierno,Ubicación 91,Empleado 11,33174.18
+Cliente 1353,Gobierno,Ubicación 12,Empleado 98,45212.17
+Cliente 1354,Gobierno,Ubicación 87,Empleado 91,13434.13
+Cliente 1355,Corporativo,Ubicación 18,Empleado 4,1461.57
+Cliente 1356,Gobierno,Ubicación 98,Empleado 89,47718.14
+Cliente 1357,Mediana Empresa,Ubicación 51,Empleado 63,13346.04
+Cliente 1358,Corporativo,Ubicación 15,Empleado 86,44395.37
+Cliente 1359,Pequeña Empresa,Ubicación 10,Empleado 16,24234.9
+Cliente 1360,Pequeña Empresa,Ubicación 18,Empleado 8,26003.0
+Cliente 1361,Pequeña Empresa,Ubicación 66,Empleado 3,49194.77
+Cliente 1362,Corporativo,Ubicación 83,Empleado 95,38935.88
+Cliente 1363,Gobierno,Ubicación 99,Empleado 7,41677.78
+Cliente 1364,Pequeña Empresa,Ubicación 3,Empleado 53,26570.38
+Cliente 1365,Corporativo,Ubicación 66,Empleado 58,28576.73
+Cliente 1366,Corporativo,Ubicación 12,Empleado 75,46876.51
+Cliente 1367,Mediana Empresa,Ubicación 52,Empleado 5,9568.51
+Cliente 1368,Mediana Empresa,Ubicación 74,Empleado 39,30085.88
+Cliente 1369,Mediana Empresa,Ubicación 60,Empleado 20,44220.5
+Cliente 1370,Pequeña Empresa,Ubicación 42,Empleado 94,43623.11
+Cliente 1371,Pequeña Empresa,Ubicación 12,Empleado 90,36393.73
+Cliente 1372,Gobierno,Ubicación 53,Empleado 95,8892.21
+Cliente 1373,Pequeña Empresa,Ubicación 87,Empleado 1,1595.26
+Cliente 1374,Pequeña Empresa,Ubicación 3,Empleado 39,24714.25
+Cliente 1375,Pequeña Empresa,Ubicación 46,Empleado 98,2218.84
+Cliente 1376,Mediana Empresa,Ubicación 21,Empleado 86,41179.62
+Cliente 1377,Gobierno,Ubicación 54,Empleado 79,35881.12
+Cliente 1378,Pequeña Empresa,Ubicación 99,Empleado 37,5568.64
+Cliente 1379,Mediana Empresa,Ubicación 17,Empleado 51,34388.98
+Cliente 1380,Gobierno,Ubicación 55,Empleado 33,12245.05
+Cliente 1381,Gobierno,Ubicación 31,Empleado 33,28291.05
+Cliente 1382,Gobierno,Ubicación 43,Empleado 66,9179.67
+Cliente 1383,Mediana Empresa,Ubicación 86,Empleado 15,7417.78
+Cliente 1384,Mediana Empresa,Ubicación 12,Empleado 67,34202.9
+Cliente 1385,Corporativo,Ubicación 43,Empleado 41,6414.88
+Cliente 1386,Pequeña Empresa,Ubicación 17,Empleado 9,18777.73
+Cliente 1387,Pequeña Empresa,Ubicación 86,Empleado 93,38717.15
+Cliente 1388,Corporativo,Ubicación 76,Empleado 8,10273.04
+Cliente 1389,Pequeña Empresa,Ubicación 24,Empleado 68,11536.19
+Cliente 1390,Gobierno,Ubicación 87,Empleado 96,41726.51
+Cliente 1391,Gobierno,Ubicación 74,Empleado 7,24702.47
+Cliente 1392,Mediana Empresa,Ubicación 1,Empleado 69,13238.39
+Cliente 1393,Gobierno,Ubicación 67,Empleado 18,20604.08
+Cliente 1394,Pequeña Empresa,Ubicación 10,Empleado 23,15440.7
+Cliente 1395,Gobierno,Ubicación 77,Empleado 71,8498.83
+Cliente 1396,Pequeña Empresa,Ubicación 63,Empleado 26,44591.05
+Cliente 1397,Mediana Empresa,Ubicación 32,Empleado 38,41949.02
+Cliente 1398,Corporativo,Ubicación 14,Empleado 30,23426.57
+Cliente 1399,Pequeña Empresa,Ubicación 73,Empleado 89,19655.41
+Cliente 1400,Pequeña Empresa,Ubicación 56,Empleado 43,13125.89
+Cliente 1401,Corporativo,Ubicación 16,Empleado 67,19432.2
+Cliente 1402,Mediana Empresa,Ubicación 61,Empleado 37,30436.0
+Cliente 1403,Mediana Empresa,Ubicación 75,Empleado 21,37037.43
+Cliente 1404,Pequeña Empresa,Ubicación 68,Empleado 24,27876.85
+Cliente 1405,Mediana Empresa,Ubicación 69,Empleado 56,24171.1
+Cliente 1406,Gobierno,Ubicación 93,Empleado 68,32789.76
+Cliente 1407,Mediana Empresa,Ubicación 59,Empleado 97,47947.16
+Cliente 1408,Mediana Empresa,Ubicación 12,Empleado 15,37822.82
+Cliente 1409,Corporativo,Ubicación 65,Empleado 47,28561.32
+Cliente 1410,Mediana Empresa,Ubicación 51,Empleado 71,49997.13
+Cliente 1411,Mediana Empresa,Ubicación 4,Empleado 25,552.46
+Cliente 1412,Corporativo,Ubicación 10,Empleado 2,43991.33
+Cliente 1413,Pequeña Empresa,Ubicación 49,Empleado 63,37434.95
+Cliente 1414,Mediana Empresa,Ubicación 8,Empleado 60,3375.69
+Cliente 1415,Corporativo,Ubicación 51,Empleado 81,41960.24
+Cliente 1416,Corporativo,Ubicación 32,Empleado 48,34104.51
+Cliente 1417,Pequeña Empresa,Ubicación 67,Empleado 45,47589.67
+Cliente 1418,Corporativo,Ubicación 56,Empleado 22,31132.11
+Cliente 1419,Pequeña Empresa,Ubicación 18,Empleado 50,34723.91
+Cliente 1420,Mediana Empresa,Ubicación 15,Empleado 32,24538.64
+Cliente 1421,Pequeña Empresa,Ubicación 62,Empleado 12,11957.4
+Cliente 1422,Mediana Empresa,Ubicación 82,Empleado 34,43387.54
+Cliente 1423,Corporativo,Ubicación 20,Empleado 46,41652.85
+Cliente 1424,Pequeña Empresa,Ubicación 71,Empleado 35,10471.05
+Cliente 1425,Mediana Empresa,Ubicación 23,Empleado 35,24391.38
+Cliente 1426,Pequeña Empresa,Ubicación 7,Empleado 12,43601.09
+Cliente 1427,Corporativo,Ubicación 87,Empleado 22,32428.94
+Cliente 1428,Pequeña Empresa,Ubicación 17,Empleado 52,1807.92
+Cliente 1429,Gobierno,Ubicación 91,Empleado 11,2337.05
+Cliente 1430,Mediana Empresa,Ubicación 69,Empleado 34,23000.05
+Cliente 1431,Corporativo,Ubicación 42,Empleado 74,13433.29
+Cliente 1432,Pequeña Empresa,Ubicación 29,Empleado 87,35355.89
+Cliente 1433,Corporativo,Ubicación 93,Empleado 32,42447.71
+Cliente 1434,Mediana Empresa,Ubicación 7,Empleado 88,30562.46
+Cliente 1435,Gobierno,Ubicación 56,Empleado 30,46176.88
+Cliente 1436,Gobierno,Ubicación 83,Empleado 3,41282.09
+Cliente 1437,Corporativo,Ubicación 86,Empleado 63,9709.42
+Cliente 1438,Corporativo,Ubicación 41,Empleado 53,43801.07
+Cliente 1439,Pequeña Empresa,Ubicación 92,Empleado 96,6500.75
+Cliente 1440,Mediana Empresa,Ubicación 85,Empleado 71,2486.31
+Cliente 1441,Mediana Empresa,Ubicación 87,Empleado 80,24498.46
+Cliente 1442,Mediana Empresa,Ubicación 48,Empleado 98,7984.79
+Cliente 1443,Corporativo,Ubicación 71,Empleado 19,45568.04
+Cliente 1444,Mediana Empresa,Ubicación 86,Empleado 88,16760.99
+Cliente 1445,Mediana Empresa,Ubicación 74,Empleado 53,3223.47
+Cliente 1446,Pequeña Empresa,Ubicación 52,Empleado 6,2666.91
+Cliente 1447,Mediana Empresa,Ubicación 86,Empleado 61,995.24
+Cliente 1448,Gobierno,Ubicación 27,Empleado 8,46195.31
+Cliente 1449,Mediana Empresa,Ubicación 89,Empleado 8,36854.12
+Cliente 1450,Corporativo,Ubicación 93,Empleado 88,22867.13
+Cliente 1451,Gobierno,Ubicación 92,Empleado 70,34899.45
+Cliente 1452,Corporativo,Ubicación 60,Empleado 54,49660.86
+Cliente 1453,Corporativo,Ubicación 1,Empleado 52,4900.61
+Cliente 1454,Gobierno,Ubicación 21,Empleado 43,46377.82
+Cliente 1455,Mediana Empresa,Ubicación 72,Empleado 15,661.79
+Cliente 1456,Corporativo,Ubicación 23,Empleado 9,46357.77
+Cliente 1457,Corporativo,Ubicación 18,Empleado 99,23760.12
+Cliente 1458,Corporativo,Ubicación 4,Empleado 21,13934.12
+Cliente 1459,Mediana Empresa,Ubicación 90,Empleado 65,42044.12
+Cliente 1460,Corporativo,Ubicación 52,Empleado 91,13303.01
+Cliente 1461,Pequeña Empresa,Ubicación 28,Empleado 17,48453.58
+Cliente 1462,Corporativo,Ubicación 26,Empleado 86,49856.86
+Cliente 1463,Corporativo,Ubicación 83,Empleado 98,16792.34
+Cliente 1464,Mediana Empresa,Ubicación 46,Empleado 31,22442.48
+Cliente 1465,Pequeña Empresa,Ubicación 23,Empleado 100,27066.97
+Cliente 1466,Pequeña Empresa,Ubicación 24,Empleado 80,15679.29
+Cliente 1467,Pequeña Empresa,Ubicación 66,Empleado 77,37116.73
+Cliente 1468,Corporativo,Ubicación 18,Empleado 77,45567.16
+Cliente 1469,Mediana Empresa,Ubicación 94,Empleado 44,7815.14
+Cliente 1470,Pequeña Empresa,Ubicación 72,Empleado 61,4840.17
+Cliente 1471,Corporativo,Ubicación 34,Empleado 27,17507.36
+Cliente 1472,Corporativo,Ubicación 77,Empleado 84,31997.61
+Cliente 1473,Gobierno,Ubicación 15,Empleado 91,10203.65
+Cliente 1474,Pequeña Empresa,Ubicación 7,Empleado 13,7784.84
+Cliente 1475,Corporativo,Ubicación 35,Empleado 37,9445.82
+Cliente 1476,Pequeña Empresa,Ubicación 59,Empleado 62,13377.54
+Cliente 1477,Mediana Empresa,Ubicación 7,Empleado 15,1030.46
+Cliente 1478,Mediana Empresa,Ubicación 19,Empleado 67,19047.66
+Cliente 1479,Gobierno,Ubicación 78,Empleado 46,41623.45
+Cliente 1480,Corporativo,Ubicación 83,Empleado 85,44432.82
+Cliente 1481,Gobierno,Ubicación 78,Empleado 22,44371.58
+Cliente 1482,Corporativo,Ubicación 62,Empleado 77,45020.31
+Cliente 1483,Gobierno,Ubicación 6,Empleado 4,33629.51
+Cliente 1484,Corporativo,Ubicación 27,Empleado 100,18553.34
+Cliente 1485,Mediana Empresa,Ubicación 4,Empleado 40,18530.57
+Cliente 1486,Gobierno,Ubicación 32,Empleado 74,44281.08
+Cliente 1487,Mediana Empresa,Ubicación 38,Empleado 59,31474.87
+Cliente 1488,Mediana Empresa,Ubicación 67,Empleado 7,28078.04
+Cliente 1489,Corporativo,Ubicación 91,Empleado 16,7490.07
+Cliente 1490,Mediana Empresa,Ubicación 91,Empleado 49,25206.78
+Cliente 1491,Corporativo,Ubicación 29,Empleado 43,21059.43
+Cliente 1492,Gobierno,Ubicación 39,Empleado 60,9108.89
+Cliente 1493,Corporativo,Ubicación 44,Empleado 32,15731.58
+Cliente 1494,Mediana Empresa,Ubicación 52,Empleado 15,37137.58
+Cliente 1495,Gobierno,Ubicación 59,Empleado 55,15024.0
+Cliente 1496,Corporativo,Ubicación 89,Empleado 96,22666.69
+Cliente 1497,Pequeña Empresa,Ubicación 75,Empleado 4,46685.03
+Cliente 1498,Mediana Empresa,Ubicación 52,Empleado 87,7827.4
+Cliente 1499,Mediana Empresa,Ubicación 73,Empleado 28,7985.24
+Cliente 1500,Gobierno,Ubicación 11,Empleado 85,38626.0
+Cliente 1501,Mediana Empresa,Ubicación 42,Empleado 83,41751.26
+Cliente 1502,Pequeña Empresa,Ubicación 82,Empleado 34,13608.16
+Cliente 1503,Corporativo,Ubicación 44,Empleado 3,4291.67
+Cliente 1504,Corporativo,Ubicación 71,Empleado 78,29426.49
+Cliente 1505,Gobierno,Ubicación 92,Empleado 63,18123.87
+Cliente 1506,Mediana Empresa,Ubicación 24,Empleado 31,42931.89
+Cliente 1507,Pequeña Empresa,Ubicación 56,Empleado 22,2802.18
+Cliente 1508,Pequeña Empresa,Ubicación 58,Empleado 69,36955.37
+Cliente 1509,Pequeña Empresa,Ubicación 82,Empleado 27,38720.58
+Cliente 1510,Gobierno,Ubicación 32,Empleado 97,11430.62
+Cliente 1511,Pequeña Empresa,Ubicación 63,Empleado 2,44442.63
+Cliente 1512,Mediana Empresa,Ubicación 19,Empleado 2,28821.94
+Cliente 1513,Mediana Empresa,Ubicación 23,Empleado 99,29030.77
+Cliente 1514,Pequeña Empresa,Ubicación 25,Empleado 89,39324.73
+Cliente 1515,Gobierno,Ubicación 17,Empleado 95,37854.02
+Cliente 1516,Mediana Empresa,Ubicación 69,Empleado 100,15876.66
+Cliente 1517,Gobierno,Ubicación 69,Empleado 79,9915.12
+Cliente 1518,Corporativo,Ubicación 51,Empleado 64,48107.32
+Cliente 1519,Gobierno,Ubicación 62,Empleado 23,13047.41
+Cliente 1520,Pequeña Empresa,Ubicación 32,Empleado 50,12233.47
+Cliente 1521,Corporativo,Ubicación 1,Empleado 74,21321.59
+Cliente 1522,Pequeña Empresa,Ubicación 51,Empleado 59,34877.79
+Cliente 1523,Pequeña Empresa,Ubicación 99,Empleado 27,45943.62
+Cliente 1524,Pequeña Empresa,Ubicación 9,Empleado 23,45736.52
+Cliente 1525,Gobierno,Ubicación 42,Empleado 55,8867.04
+Cliente 1526,Corporativo,Ubicación 100,Empleado 69,36151.3
+Cliente 1527,Pequeña Empresa,Ubicación 61,Empleado 48,26820.65
+Cliente 1528,Mediana Empresa,Ubicación 73,Empleado 74,28975.3
+Cliente 1529,Mediana Empresa,Ubicación 34,Empleado 34,12727.1
+Cliente 1530,Pequeña Empresa,Ubicación 24,Empleado 23,42748.79
+Cliente 1531,Gobierno,Ubicación 72,Empleado 82,35050.06
+Cliente 1532,Mediana Empresa,Ubicación 36,Empleado 19,20670.53
+Cliente 1533,Pequeña Empresa,Ubicación 84,Empleado 92,39934.58
+Cliente 1534,Corporativo,Ubicación 95,Empleado 93,5760.64
+Cliente 1535,Pequeña Empresa,Ubicación 36,Empleado 64,27014.4
+Cliente 1536,Corporativo,Ubicación 94,Empleado 19,20981.81
+Cliente 1537,Mediana Empresa,Ubicación 9,Empleado 10,23592.95
+Cliente 1538,Mediana Empresa,Ubicación 89,Empleado 62,24903.25
+Cliente 1539,Corporativo,Ubicación 10,Empleado 52,2987.32
+Cliente 1540,Pequeña Empresa,Ubicación 50,Empleado 96,7393.31
+Cliente 1541,Corporativo,Ubicación 8,Empleado 52,23474.22
+Cliente 1542,Mediana Empresa,Ubicación 98,Empleado 72,29669.67
+Cliente 1543,Corporativo,Ubicación 75,Empleado 79,12443.72
+Cliente 1544,Mediana Empresa,Ubicación 69,Empleado 71,26760.18
+Cliente 1545,Gobierno,Ubicación 29,Empleado 56,23693.36
+Cliente 1546,Pequeña Empresa,Ubicación 59,Empleado 71,42080.51
+Cliente 1547,Pequeña Empresa,Ubicación 24,Empleado 12,27626.97
+Cliente 1548,Gobierno,Ubicación 12,Empleado 17,16511.66
+Cliente 1549,Gobierno,Ubicación 30,Empleado 33,1868.23
+Cliente 1550,Pequeña Empresa,Ubicación 54,Empleado 60,27631.58
+Cliente 1551,Corporativo,Ubicación 28,Empleado 72,35749.19
+Cliente 1552,Corporativo,Ubicación 92,Empleado 61,1616.23
+Cliente 1553,Mediana Empresa,Ubicación 63,Empleado 37,25230.98
+Cliente 1554,Corporativo,Ubicación 19,Empleado 77,35745.65
+Cliente 1555,Gobierno,Ubicación 74,Empleado 50,37332.27
+Cliente 1556,Corporativo,Ubicación 16,Empleado 94,38088.09
+Cliente 1557,Mediana Empresa,Ubicación 46,Empleado 14,46506.69
+Cliente 1558,Mediana Empresa,Ubicación 11,Empleado 78,42967.12
+Cliente 1559,Corporativo,Ubicación 36,Empleado 86,30562.74
+Cliente 1560,Gobierno,Ubicación 75,Empleado 56,30152.46
+Cliente 1561,Pequeña Empresa,Ubicación 22,Empleado 74,27337.21
+Cliente 1562,Mediana Empresa,Ubicación 9,Empleado 75,47417.09
+Cliente 1563,Mediana Empresa,Ubicación 18,Empleado 51,5128.09
+Cliente 1564,Mediana Empresa,Ubicación 37,Empleado 49,14216.89
+Cliente 1565,Corporativo,Ubicación 76,Empleado 25,11437.24
+Cliente 1566,Corporativo,Ubicación 13,Empleado 13,11772.36
+Cliente 1567,Mediana Empresa,Ubicación 40,Empleado 7,46707.31
+Cliente 1568,Pequeña Empresa,Ubicación 76,Empleado 24,46967.81
+Cliente 1569,Gobierno,Ubicación 33,Empleado 13,34546.77
+Cliente 1570,Gobierno,Ubicación 64,Empleado 71,27464.38
+Cliente 1571,Pequeña Empresa,Ubicación 99,Empleado 65,30645.5
+Cliente 1572,Pequeña Empresa,Ubicación 57,Empleado 88,20243.29
+Cliente 1573,Corporativo,Ubicación 1,Empleado 23,42076.23
+Cliente 1574,Mediana Empresa,Ubicación 56,Empleado 88,21101.23
+Cliente 1575,Mediana Empresa,Ubicación 90,Empleado 40,6045.17
+Cliente 1576,Mediana Empresa,Ubicación 18,Empleado 28,34600.47
+Cliente 1577,Gobierno,Ubicación 59,Empleado 35,5959.17
+Cliente 1578,Mediana Empresa,Ubicación 10,Empleado 63,8005.25
+Cliente 1579,Mediana Empresa,Ubicación 32,Empleado 26,42626.26
+Cliente 1580,Corporativo,Ubicación 16,Empleado 87,11589.99
+Cliente 1581,Pequeña Empresa,Ubicación 85,Empleado 11,19512.63
+Cliente 1582,Pequeña Empresa,Ubicación 25,Empleado 82,46063.64
+Cliente 1583,Corporativo,Ubicación 84,Empleado 61,18468.82
+Cliente 1584,Pequeña Empresa,Ubicación 91,Empleado 57,46128.22
+Cliente 1585,Mediana Empresa,Ubicación 46,Empleado 92,27444.77
+Cliente 1586,Mediana Empresa,Ubicación 83,Empleado 15,17356.44
+Cliente 1587,Pequeña Empresa,Ubicación 5,Empleado 45,36558.02
+Cliente 1588,Gobierno,Ubicación 9,Empleado 21,33863.83
+Cliente 1589,Pequeña Empresa,Ubicación 71,Empleado 86,22298.52
+Cliente 1590,Corporativo,Ubicación 82,Empleado 13,7269.65
+Cliente 1591,Pequeña Empresa,Ubicación 11,Empleado 65,33053.15
+Cliente 1592,Mediana Empresa,Ubicación 7,Empleado 59,28023.76
+Cliente 1593,Gobierno,Ubicación 67,Empleado 4,39810.98
+Cliente 1594,Mediana Empresa,Ubicación 54,Empleado 64,32141.34
+Cliente 1595,Gobierno,Ubicación 71,Empleado 80,36098.34
+Cliente 1596,Gobierno,Ubicación 34,Empleado 36,44475.61
+Cliente 1597,Corporativo,Ubicación 67,Empleado 87,22956.61
+Cliente 1598,Gobierno,Ubicación 96,Empleado 89,42293.41
+Cliente 1599,Mediana Empresa,Ubicación 10,Empleado 41,29458.41
+Cliente 1600,Mediana Empresa,Ubicación 32,Empleado 91,40793.84
+Cliente 1601,Mediana Empresa,Ubicación 33,Empleado 37,25813.42
+Cliente 1602,Pequeña Empresa,Ubicación 55,Empleado 87,18891.19
+Cliente 1603,Mediana Empresa,Ubicación 82,Empleado 13,44879.25
+Cliente 1604,Mediana Empresa,Ubicación 5,Empleado 73,6195.83
+Cliente 1605,Gobierno,Ubicación 66,Empleado 39,18840.49
+Cliente 1606,Pequeña Empresa,Ubicación 54,Empleado 15,33093.95
+Cliente 1607,Mediana Empresa,Ubicación 49,Empleado 22,37210.82
+Cliente 1608,Mediana Empresa,Ubicación 74,Empleado 34,38812.66
+Cliente 1609,Gobierno,Ubicación 62,Empleado 72,29267.42
+Cliente 1610,Gobierno,Ubicación 86,Empleado 35,37013.07
+Cliente 1611,Gobierno,Ubicación 9,Empleado 17,40349.35
+Cliente 1612,Pequeña Empresa,Ubicación 32,Empleado 73,31343.94
+Cliente 1613,Mediana Empresa,Ubicación 66,Empleado 24,36302.53
+Cliente 1614,Corporativo,Ubicación 81,Empleado 59,40944.14
+Cliente 1615,Gobierno,Ubicación 36,Empleado 42,15904.39
+Cliente 1616,Mediana Empresa,Ubicación 67,Empleado 95,1278.51
+Cliente 1617,Mediana Empresa,Ubicación 84,Empleado 2,5634.15
+Cliente 1618,Corporativo,Ubicación 10,Empleado 97,32952.35
+Cliente 1619,Pequeña Empresa,Ubicación 11,Empleado 52,40484.26
+Cliente 1620,Gobierno,Ubicación 38,Empleado 39,11624.28
+Cliente 1621,Corporativo,Ubicación 54,Empleado 12,13583.49
+Cliente 1622,Mediana Empresa,Ubicación 79,Empleado 19,3847.42
+Cliente 1623,Mediana Empresa,Ubicación 16,Empleado 21,2542.03
+Cliente 1624,Pequeña Empresa,Ubicación 37,Empleado 63,45596.3
+Cliente 1625,Corporativo,Ubicación 73,Empleado 86,35358.45
+Cliente 1626,Mediana Empresa,Ubicación 12,Empleado 34,39787.25
+Cliente 1627,Mediana Empresa,Ubicación 53,Empleado 43,39205.61
+Cliente 1628,Corporativo,Ubicación 34,Empleado 68,24286.67
+Cliente 1629,Gobierno,Ubicación 99,Empleado 98,4714.72
+Cliente 1630,Corporativo,Ubicación 45,Empleado 26,26468.4
+Cliente 1631,Mediana Empresa,Ubicación 76,Empleado 2,4445.38
+Cliente 1632,Mediana Empresa,Ubicación 74,Empleado 2,23554.2
+Cliente 1633,Pequeña Empresa,Ubicación 88,Empleado 51,15902.74
+Cliente 1634,Mediana Empresa,Ubicación 75,Empleado 44,41640.05
+Cliente 1635,Pequeña Empresa,Ubicación 36,Empleado 94,39585.11
+Cliente 1636,Mediana Empresa,Ubicación 20,Empleado 44,29971.18
+Cliente 1637,Mediana Empresa,Ubicación 31,Empleado 2,49204.2
+Cliente 1638,Corporativo,Ubicación 71,Empleado 98,16747.58
+Cliente 1639,Gobierno,Ubicación 19,Empleado 35,47546.03
+Cliente 1640,Pequeña Empresa,Ubicación 27,Empleado 19,28568.31
+Cliente 1641,Gobierno,Ubicación 86,Empleado 43,32900.91
+Cliente 1642,Gobierno,Ubicación 48,Empleado 34,29988.86
+Cliente 1643,Pequeña Empresa,Ubicación 23,Empleado 95,23409.04
+Cliente 1644,Pequeña Empresa,Ubicación 12,Empleado 55,42037.76
+Cliente 1645,Gobierno,Ubicación 50,Empleado 63,8963.9
+Cliente 1646,Corporativo,Ubicación 75,Empleado 34,3732.41
+Cliente 1647,Corporativo,Ubicación 5,Empleado 79,13291.34
+Cliente 1648,Mediana Empresa,Ubicación 45,Empleado 65,17774.03
+Cliente 1649,Mediana Empresa,Ubicación 64,Empleado 10,14158.58
+Cliente 1650,Gobierno,Ubicación 72,Empleado 41,8882.77
+Cliente 1651,Corporativo,Ubicación 7,Empleado 83,19688.71
+Cliente 1652,Mediana Empresa,Ubicación 81,Empleado 85,16115.96
+Cliente 1653,Corporativo,Ubicación 88,Empleado 45,23839.92
+Cliente 1654,Corporativo,Ubicación 27,Empleado 26,45765.91
+Cliente 1655,Mediana Empresa,Ubicación 85,Empleado 86,23379.79
+Cliente 1656,Mediana Empresa,Ubicación 83,Empleado 49,39210.1
+Cliente 1657,Pequeña Empresa,Ubicación 23,Empleado 33,48648.94
+Cliente 1658,Pequeña Empresa,Ubicación 43,Empleado 20,36790.14
+Cliente 1659,Corporativo,Ubicación 17,Empleado 10,7288.96
+Cliente 1660,Corporativo,Ubicación 25,Empleado 34,5086.73
+Cliente 1661,Corporativo,Ubicación 91,Empleado 38,43787.46
+Cliente 1662,Gobierno,Ubicación 39,Empleado 84,6099.04
+Cliente 1663,Gobierno,Ubicación 28,Empleado 61,45288.49
+Cliente 1664,Pequeña Empresa,Ubicación 2,Empleado 17,27588.72
+Cliente 1665,Pequeña Empresa,Ubicación 37,Empleado 8,16776.64
+Cliente 1666,Mediana Empresa,Ubicación 20,Empleado 85,30822.8
+Cliente 1667,Pequeña Empresa,Ubicación 10,Empleado 62,48975.03
+Cliente 1668,Corporativo,Ubicación 2,Empleado 43,19521.28
+Cliente 1669,Gobierno,Ubicación 73,Empleado 76,14570.88
+Cliente 1670,Corporativo,Ubicación 6,Empleado 83,14515.87
+Cliente 1671,Gobierno,Ubicación 99,Empleado 23,48943.9
+Cliente 1672,Gobierno,Ubicación 29,Empleado 94,13884.82
+Cliente 1673,Mediana Empresa,Ubicación 27,Empleado 62,11075.99
+Cliente 1674,Corporativo,Ubicación 73,Empleado 94,37375.06
+Cliente 1675,Gobierno,Ubicación 60,Empleado 39,33397.03
+Cliente 1676,Mediana Empresa,Ubicación 73,Empleado 45,48684.58
+Cliente 1677,Mediana Empresa,Ubicación 37,Empleado 84,18048.06
+Cliente 1678,Pequeña Empresa,Ubicación 1,Empleado 93,22679.85
+Cliente 1679,Corporativo,Ubicación 14,Empleado 45,33069.84
+Cliente 1680,Gobierno,Ubicación 80,Empleado 67,27316.5
+Cliente 1681,Pequeña Empresa,Ubicación 20,Empleado 58,42257.6
+Cliente 1682,Gobierno,Ubicación 25,Empleado 43,40653.45
+Cliente 1683,Pequeña Empresa,Ubicación 88,Empleado 66,41608.27
+Cliente 1684,Pequeña Empresa,Ubicación 19,Empleado 98,44160.4
+Cliente 1685,Corporativo,Ubicación 24,Empleado 34,15803.29
+Cliente 1686,Corporativo,Ubicación 47,Empleado 42,43270.26
+Cliente 1687,Mediana Empresa,Ubicación 72,Empleado 51,8880.46
+Cliente 1688,Corporativo,Ubicación 31,Empleado 32,35525.48
+Cliente 1689,Mediana Empresa,Ubicación 88,Empleado 20,36297.13
+Cliente 1690,Corporativo,Ubicación 17,Empleado 7,30612.42
+Cliente 1691,Gobierno,Ubicación 87,Empleado 12,4535.45
+Cliente 1692,Gobierno,Ubicación 68,Empleado 32,23547.03
+Cliente 1693,Pequeña Empresa,Ubicación 82,Empleado 61,48649.98
+Cliente 1694,Pequeña Empresa,Ubicación 54,Empleado 26,30560.09
+Cliente 1695,Gobierno,Ubicación 74,Empleado 84,21156.35
+Cliente 1696,Gobierno,Ubicación 40,Empleado 4,40506.85
+Cliente 1697,Pequeña Empresa,Ubicación 45,Empleado 14,26701.87
+Cliente 1698,Corporativo,Ubicación 48,Empleado 22,26899.24
+Cliente 1699,Mediana Empresa,Ubicación 71,Empleado 8,48755.88
+Cliente 1700,Gobierno,Ubicación 38,Empleado 3,46459.08
+Cliente 1701,Mediana Empresa,Ubicación 65,Empleado 14,20507.81
+Cliente 1702,Mediana Empresa,Ubicación 24,Empleado 70,6652.54
+Cliente 1703,Mediana Empresa,Ubicación 72,Empleado 10,42918.98
+Cliente 1704,Corporativo,Ubicación 66,Empleado 98,11137.08
+Cliente 1705,Mediana Empresa,Ubicación 2,Empleado 80,27596.89
+Cliente 1706,Corporativo,Ubicación 66,Empleado 49,33960.08
+Cliente 1707,Pequeña Empresa,Ubicación 67,Empleado 81,6165.59
+Cliente 1708,Corporativo,Ubicación 93,Empleado 40,28251.78
+Cliente 1709,Gobierno,Ubicación 5,Empleado 42,46742.24
+Cliente 1710,Gobierno,Ubicación 41,Empleado 29,3616.45
+Cliente 1711,Pequeña Empresa,Ubicación 23,Empleado 44,2067.69
+Cliente 1712,Corporativo,Ubicación 79,Empleado 10,38070.05
+Cliente 1713,Mediana Empresa,Ubicación 33,Empleado 86,27048.13
+Cliente 1714,Gobierno,Ubicación 3,Empleado 31,37399.43
+Cliente 1715,Corporativo,Ubicación 64,Empleado 67,21218.34
+Cliente 1716,Pequeña Empresa,Ubicación 29,Empleado 81,43255.39
+Cliente 1717,Gobierno,Ubicación 23,Empleado 17,23918.9
+Cliente 1718,Corporativo,Ubicación 4,Empleado 5,29304.3
+Cliente 1719,Pequeña Empresa,Ubicación 27,Empleado 93,49338.99
+Cliente 1720,Pequeña Empresa,Ubicación 63,Empleado 100,38763.93
+Cliente 1721,Mediana Empresa,Ubicación 53,Empleado 87,1673.62
+Cliente 1722,Corporativo,Ubicación 15,Empleado 31,9747.78
+Cliente 1723,Pequeña Empresa,Ubicación 53,Empleado 91,7111.17
+Cliente 1724,Gobierno,Ubicación 16,Empleado 26,30535.77
+Cliente 1725,Pequeña Empresa,Ubicación 35,Empleado 92,27244.78
+Cliente 1726,Corporativo,Ubicación 11,Empleado 99,21129.81
+Cliente 1727,Pequeña Empresa,Ubicación 48,Empleado 42,1650.89
+Cliente 1728,Mediana Empresa,Ubicación 58,Empleado 25,44038.81
+Cliente 1729,Gobierno,Ubicación 69,Empleado 14,17080.5
+Cliente 1730,Mediana Empresa,Ubicación 30,Empleado 21,15059.43
+Cliente 1731,Mediana Empresa,Ubicación 76,Empleado 55,29624.57
+Cliente 1732,Corporativo,Ubicación 48,Empleado 99,2057.41
+Cliente 1733,Pequeña Empresa,Ubicación 71,Empleado 4,37394.56
+Cliente 1734,Gobierno,Ubicación 86,Empleado 9,34094.75
+Cliente 1735,Gobierno,Ubicación 62,Empleado 54,46826.49
+Cliente 1736,Mediana Empresa,Ubicación 8,Empleado 100,22804.94
+Cliente 1737,Corporativo,Ubicación 66,Empleado 99,39644.44
+Cliente 1738,Mediana Empresa,Ubicación 88,Empleado 86,9945.99
+Cliente 1739,Pequeña Empresa,Ubicación 81,Empleado 1,17570.26
+Cliente 1740,Gobierno,Ubicación 69,Empleado 72,34483.41
+Cliente 1741,Gobierno,Ubicación 75,Empleado 83,42009.56
+Cliente 1742,Gobierno,Ubicación 17,Empleado 6,13712.46
+Cliente 1743,Mediana Empresa,Ubicación 7,Empleado 76,43798.18
+Cliente 1744,Gobierno,Ubicación 71,Empleado 73,45944.24
+Cliente 1745,Mediana Empresa,Ubicación 92,Empleado 63,2061.06
+Cliente 1746,Mediana Empresa,Ubicación 43,Empleado 47,32675.94
+Cliente 1747,Gobierno,Ubicación 49,Empleado 39,48084.73
+Cliente 1748,Pequeña Empresa,Ubicación 91,Empleado 35,7490.11
+Cliente 1749,Mediana Empresa,Ubicación 18,Empleado 11,10926.5
+Cliente 1750,Corporativo,Ubicación 57,Empleado 43,48580.33
+Cliente 1751,Gobierno,Ubicación 53,Empleado 28,23385.37
+Cliente 1752,Pequeña Empresa,Ubicación 72,Empleado 15,22666.28
+Cliente 1753,Pequeña Empresa,Ubicación 69,Empleado 11,38191.73
+Cliente 1754,Corporativo,Ubicación 57,Empleado 97,45705.88
+Cliente 1755,Gobierno,Ubicación 18,Empleado 61,33111.61
+Cliente 1756,Gobierno,Ubicación 95,Empleado 3,35431.73
+Cliente 1757,Gobierno,Ubicación 43,Empleado 17,27199.99
+Cliente 1758,Gobierno,Ubicación 32,Empleado 27,38769.08
+Cliente 1759,Gobierno,Ubicación 97,Empleado 63,20708.78
+Cliente 1760,Corporativo,Ubicación 81,Empleado 84,20541.33
+Cliente 1761,Mediana Empresa,Ubicación 79,Empleado 62,2415.29
+Cliente 1762,Corporativo,Ubicación 58,Empleado 43,22168.22
+Cliente 1763,Mediana Empresa,Ubicación 38,Empleado 32,16634.02
+Cliente 1764,Gobierno,Ubicación 6,Empleado 25,43930.27
+Cliente 1765,Mediana Empresa,Ubicación 70,Empleado 70,28602.15
+Cliente 1766,Corporativo,Ubicación 54,Empleado 88,49636.85
+Cliente 1767,Pequeña Empresa,Ubicación 4,Empleado 22,5980.91
+Cliente 1768,Mediana Empresa,Ubicación 32,Empleado 97,40138.44
+Cliente 1769,Gobierno,Ubicación 50,Empleado 41,6075.53
+Cliente 1770,Pequeña Empresa,Ubicación 63,Empleado 46,23711.12
+Cliente 1771,Mediana Empresa,Ubicación 48,Empleado 34,34268.54
+Cliente 1772,Pequeña Empresa,Ubicación 43,Empleado 30,41534.24
+Cliente 1773,Pequeña Empresa,Ubicación 100,Empleado 89,12915.58
+Cliente 1774,Pequeña Empresa,Ubicación 99,Empleado 23,19931.34
+Cliente 1775,Pequeña Empresa,Ubicación 35,Empleado 85,17227.54
+Cliente 1776,Corporativo,Ubicación 8,Empleado 66,32665.51
+Cliente 1777,Mediana Empresa,Ubicación 55,Empleado 50,29470.53
+Cliente 1778,Mediana Empresa,Ubicación 9,Empleado 15,23680.34
+Cliente 1779,Mediana Empresa,Ubicación 12,Empleado 62,42340.67
+Cliente 1780,Mediana Empresa,Ubicación 35,Empleado 75,46824.57
+Cliente 1781,Mediana Empresa,Ubicación 15,Empleado 56,19874.29
+Cliente 1782,Pequeña Empresa,Ubicación 96,Empleado 60,32514.98
+Cliente 1783,Gobierno,Ubicación 66,Empleado 22,44664.26
+Cliente 1784,Corporativo,Ubicación 89,Empleado 48,36665.54
+Cliente 1785,Corporativo,Ubicación 72,Empleado 59,29993.74
+Cliente 1786,Pequeña Empresa,Ubicación 24,Empleado 80,25701.25
+Cliente 1787,Mediana Empresa,Ubicación 5,Empleado 96,40407.18
+Cliente 1788,Corporativo,Ubicación 92,Empleado 26,32897.1
+Cliente 1789,Corporativo,Ubicación 30,Empleado 94,1926.06
+Cliente 1790,Corporativo,Ubicación 46,Empleado 36,46917.54
+Cliente 1791,Pequeña Empresa,Ubicación 70,Empleado 62,1632.37
+Cliente 1792,Pequeña Empresa,Ubicación 20,Empleado 68,5846.89
+Cliente 1793,Corporativo,Ubicación 55,Empleado 48,14933.44
+Cliente 1794,Gobierno,Ubicación 79,Empleado 6,9234.98
+Cliente 1795,Gobierno,Ubicación 9,Empleado 66,26390.78
+Cliente 1796,Gobierno,Ubicación 95,Empleado 93,16862.96
+Cliente 1797,Pequeña Empresa,Ubicación 12,Empleado 15,17479.77
+Cliente 1798,Pequeña Empresa,Ubicación 1,Empleado 63,11341.25
+Cliente 1799,Pequeña Empresa,Ubicación 49,Empleado 77,39536.07
+Cliente 1800,Pequeña Empresa,Ubicación 93,Empleado 100,19265.27
+Cliente 1801,Gobierno,Ubicación 58,Empleado 7,7664.44
+Cliente 1802,Mediana Empresa,Ubicación 83,Empleado 30,841.94
+Cliente 1803,Gobierno,Ubicación 57,Empleado 79,47997.97
+Cliente 1804,Pequeña Empresa,Ubicación 87,Empleado 3,22390.62
+Cliente 1805,Corporativo,Ubicación 18,Empleado 51,10932.42
+Cliente 1806,Pequeña Empresa,Ubicación 80,Empleado 60,47184.54
+Cliente 1807,Gobierno,Ubicación 74,Empleado 4,26907.1
+Cliente 1808,Gobierno,Ubicación 1,Empleado 67,28601.03
+Cliente 1809,Pequeña Empresa,Ubicación 48,Empleado 26,33987.43
+Cliente 1810,Pequeña Empresa,Ubicación 39,Empleado 28,5633.61
+Cliente 1811,Gobierno,Ubicación 46,Empleado 5,18467.6
+Cliente 1812,Mediana Empresa,Ubicación 29,Empleado 45,7395.53
+Cliente 1813,Corporativo,Ubicación 70,Empleado 34,44543.03
+Cliente 1814,Gobierno,Ubicación 2,Empleado 51,26544.54
+Cliente 1815,Gobierno,Ubicación 88,Empleado 9,6789.11
+Cliente 1816,Corporativo,Ubicación 41,Empleado 73,25875.3
+Cliente 1817,Gobierno,Ubicación 82,Empleado 84,37384.67
+Cliente 1818,Pequeña Empresa,Ubicación 23,Empleado 82,14359.74
+Cliente 1819,Mediana Empresa,Ubicación 99,Empleado 46,47085.63
+Cliente 1820,Mediana Empresa,Ubicación 63,Empleado 76,20323.89
+Cliente 1821,Corporativo,Ubicación 38,Empleado 71,48925.26
+Cliente 1822,Mediana Empresa,Ubicación 39,Empleado 37,35303.76
+Cliente 1823,Mediana Empresa,Ubicación 76,Empleado 60,39725.74
+Cliente 1824,Pequeña Empresa,Ubicación 87,Empleado 62,33927.31
+Cliente 1825,Corporativo,Ubicación 75,Empleado 90,27685.16
+Cliente 1826,Pequeña Empresa,Ubicación 18,Empleado 18,9221.59
+Cliente 1827,Mediana Empresa,Ubicación 8,Empleado 53,4499.84
+Cliente 1828,Pequeña Empresa,Ubicación 67,Empleado 55,39077.69
+Cliente 1829,Gobierno,Ubicación 93,Empleado 95,36929.96
+Cliente 1830,Gobierno,Ubicación 97,Empleado 19,3509.25
+Cliente 1831,Corporativo,Ubicación 30,Empleado 36,36407.16
+Cliente 1832,Corporativo,Ubicación 56,Empleado 27,33022.54
+Cliente 1833,Mediana Empresa,Ubicación 94,Empleado 58,12759.93
+Cliente 1834,Pequeña Empresa,Ubicación 52,Empleado 67,16123.69
+Cliente 1835,Mediana Empresa,Ubicación 84,Empleado 47,28512.18
+Cliente 1836,Gobierno,Ubicación 38,Empleado 45,39686.04
+Cliente 1837,Gobierno,Ubicación 5,Empleado 3,34068.23
+Cliente 1838,Gobierno,Ubicación 77,Empleado 76,7427.87
+Cliente 1839,Pequeña Empresa,Ubicación 58,Empleado 19,12292.02
+Cliente 1840,Pequeña Empresa,Ubicación 65,Empleado 73,39524.73
+Cliente 1841,Gobierno,Ubicación 27,Empleado 54,730.16
+Cliente 1842,Pequeña Empresa,Ubicación 66,Empleado 48,19297.57
+Cliente 1843,Gobierno,Ubicación 17,Empleado 10,40142.17
+Cliente 1844,Gobierno,Ubicación 64,Empleado 65,46060.98
+Cliente 1845,Corporativo,Ubicación 2,Empleado 29,37779.56
+Cliente 1846,Pequeña Empresa,Ubicación 54,Empleado 38,23432.61
+Cliente 1847,Pequeña Empresa,Ubicación 93,Empleado 59,22521.58
+Cliente 1848,Mediana Empresa,Ubicación 75,Empleado 82,24527.03
+Cliente 1849,Gobierno,Ubicación 17,Empleado 23,42514.65
+Cliente 1850,Gobierno,Ubicación 78,Empleado 42,13815.93
+Cliente 1851,Gobierno,Ubicación 22,Empleado 65,35298.99
+Cliente 1852,Pequeña Empresa,Ubicación 66,Empleado 13,19899.77
+Cliente 1853,Corporativo,Ubicación 44,Empleado 80,4708.02
+Cliente 1854,Gobierno,Ubicación 33,Empleado 27,8682.63
+Cliente 1855,Mediana Empresa,Ubicación 50,Empleado 79,42698.76
+Cliente 1856,Gobierno,Ubicación 15,Empleado 67,30009.13
+Cliente 1857,Gobierno,Ubicación 76,Empleado 92,22000.17
+Cliente 1858,Pequeña Empresa,Ubicación 35,Empleado 57,37139.97
+Cliente 1859,Gobierno,Ubicación 36,Empleado 9,4270.79
+Cliente 1860,Pequeña Empresa,Ubicación 97,Empleado 84,27498.37
+Cliente 1861,Gobierno,Ubicación 100,Empleado 1,31545.65
+Cliente 1862,Gobierno,Ubicación 14,Empleado 3,34481.56
+Cliente 1863,Gobierno,Ubicación 5,Empleado 83,30248.28
+Cliente 1864,Corporativo,Ubicación 70,Empleado 35,27059.36
+Cliente 1865,Gobierno,Ubicación 100,Empleado 97,17494.48
+Cliente 1866,Corporativo,Ubicación 58,Empleado 14,25313.89
+Cliente 1867,Pequeña Empresa,Ubicación 13,Empleado 50,1409.73
+Cliente 1868,Gobierno,Ubicación 66,Empleado 11,44042.47
+Cliente 1869,Mediana Empresa,Ubicación 53,Empleado 62,31513.51
+Cliente 1870,Pequeña Empresa,Ubicación 3,Empleado 23,21799.62
+Cliente 1871,Pequeña Empresa,Ubicación 39,Empleado 85,4712.06
+Cliente 1872,Corporativo,Ubicación 42,Empleado 30,29828.16
+Cliente 1873,Corporativo,Ubicación 73,Empleado 32,47906.58
+Cliente 1874,Corporativo,Ubicación 87,Empleado 95,12852.73
+Cliente 1875,Pequeña Empresa,Ubicación 11,Empleado 36,45143.89
+Cliente 1876,Gobierno,Ubicación 92,Empleado 62,37221.12
+Cliente 1877,Pequeña Empresa,Ubicación 87,Empleado 16,32743.14
+Cliente 1878,Corporativo,Ubicación 83,Empleado 97,17441.37
+Cliente 1879,Corporativo,Ubicación 37,Empleado 64,48813.52
+Cliente 1880,Corporativo,Ubicación 68,Empleado 40,40026.54
+Cliente 1881,Corporativo,Ubicación 55,Empleado 94,16936.58
+Cliente 1882,Pequeña Empresa,Ubicación 70,Empleado 99,9107.0
+Cliente 1883,Pequeña Empresa,Ubicación 71,Empleado 63,5215.62
+Cliente 1884,Mediana Empresa,Ubicación 6,Empleado 21,15484.04
+Cliente 1885,Mediana Empresa,Ubicación 62,Empleado 42,18290.02
+Cliente 1886,Mediana Empresa,Ubicación 32,Empleado 57,31507.27
+Cliente 1887,Mediana Empresa,Ubicación 75,Empleado 2,20760.92
+Cliente 1888,Corporativo,Ubicación 80,Empleado 86,1027.52
+Cliente 1889,Pequeña Empresa,Ubicación 94,Empleado 59,32640.06
+Cliente 1890,Corporativo,Ubicación 78,Empleado 36,47283.17
+Cliente 1891,Gobierno,Ubicación 25,Empleado 75,17693.31
+Cliente 1892,Pequeña Empresa,Ubicación 78,Empleado 47,46799.51
+Cliente 1893,Mediana Empresa,Ubicación 51,Empleado 64,44853.45
+Cliente 1894,Corporativo,Ubicación 46,Empleado 46,47467.75
+Cliente 1895,Gobierno,Ubicación 63,Empleado 30,38836.39
+Cliente 1896,Mediana Empresa,Ubicación 58,Empleado 26,39163.76
+Cliente 1897,Gobierno,Ubicación 27,Empleado 52,3543.01
+Cliente 1898,Pequeña Empresa,Ubicación 7,Empleado 44,8312.81
+Cliente 1899,Pequeña Empresa,Ubicación 52,Empleado 50,39868.98
+Cliente 1900,Corporativo,Ubicación 30,Empleado 48,8013.63
+Cliente 1901,Gobierno,Ubicación 61,Empleado 96,40154.63
+Cliente 1902,Mediana Empresa,Ubicación 100,Empleado 32,2563.99
+Cliente 1903,Gobierno,Ubicación 13,Empleado 76,18748.86
+Cliente 1904,Mediana Empresa,Ubicación 100,Empleado 45,46079.65
+Cliente 1905,Gobierno,Ubicación 87,Empleado 4,8658.33
+Cliente 1906,Gobierno,Ubicación 38,Empleado 48,28769.89
+Cliente 1907,Corporativo,Ubicación 3,Empleado 73,37035.55
+Cliente 1908,Pequeña Empresa,Ubicación 97,Empleado 97,25992.0
+Cliente 1909,Gobierno,Ubicación 80,Empleado 2,9382.46
+Cliente 1910,Corporativo,Ubicación 71,Empleado 98,8998.5
+Cliente 1911,Pequeña Empresa,Ubicación 90,Empleado 24,7909.1
+Cliente 1912,Mediana Empresa,Ubicación 87,Empleado 15,22889.29
+Cliente 1913,Mediana Empresa,Ubicación 4,Empleado 90,27767.28
+Cliente 1914,Corporativo,Ubicación 83,Empleado 25,47554.15
+Cliente 1915,Pequeña Empresa,Ubicación 98,Empleado 26,14195.82
+Cliente 1916,Mediana Empresa,Ubicación 71,Empleado 53,4134.03
+Cliente 1917,Gobierno,Ubicación 96,Empleado 8,5250.91
+Cliente 1918,Gobierno,Ubicación 43,Empleado 57,18590.67
+Cliente 1919,Gobierno,Ubicación 54,Empleado 53,37543.85
+Cliente 1920,Pequeña Empresa,Ubicación 62,Empleado 60,34394.81
+Cliente 1921,Mediana Empresa,Ubicación 43,Empleado 1,45599.46
+Cliente 1922,Gobierno,Ubicación 90,Empleado 16,40656.09
+Cliente 1923,Mediana Empresa,Ubicación 67,Empleado 52,7830.85
+Cliente 1924,Gobierno,Ubicación 76,Empleado 78,35982.08
+Cliente 1925,Mediana Empresa,Ubicación 35,Empleado 88,45109.71
+Cliente 1926,Mediana Empresa,Ubicación 48,Empleado 18,10448.63
+Cliente 1927,Mediana Empresa,Ubicación 49,Empleado 31,47595.82
+Cliente 1928,Mediana Empresa,Ubicación 99,Empleado 57,4910.17
+Cliente 1929,Pequeña Empresa,Ubicación 37,Empleado 69,6468.84
+Cliente 1930,Pequeña Empresa,Ubicación 53,Empleado 37,38481.83
+Cliente 1931,Corporativo,Ubicación 64,Empleado 9,3825.36
+Cliente 1932,Mediana Empresa,Ubicación 26,Empleado 61,40323.91
+Cliente 1933,Corporativo,Ubicación 2,Empleado 71,3019.51
+Cliente 1934,Corporativo,Ubicación 97,Empleado 95,26628.19
+Cliente 1935,Corporativo,Ubicación 77,Empleado 51,18984.4
+Cliente 1936,Gobierno,Ubicación 66,Empleado 82,8730.82
+Cliente 1937,Gobierno,Ubicación 92,Empleado 41,24581.85
+Cliente 1938,Mediana Empresa,Ubicación 87,Empleado 48,32878.82
+Cliente 1939,Mediana Empresa,Ubicación 50,Empleado 68,8948.52
+Cliente 1940,Pequeña Empresa,Ubicación 41,Empleado 76,23051.59
+Cliente 1941,Mediana Empresa,Ubicación 49,Empleado 50,32664.11
+Cliente 1942,Mediana Empresa,Ubicación 64,Empleado 69,40090.24
+Cliente 1943,Gobierno,Ubicación 85,Empleado 64,27399.61
+Cliente 1944,Pequeña Empresa,Ubicación 27,Empleado 72,16668.44
+Cliente 1945,Pequeña Empresa,Ubicación 48,Empleado 94,12873.6
+Cliente 1946,Mediana Empresa,Ubicación 25,Empleado 75,28054.28
+Cliente 1947,Pequeña Empresa,Ubicación 27,Empleado 48,28291.8
+Cliente 1948,Pequeña Empresa,Ubicación 91,Empleado 26,42599.56
+Cliente 1949,Mediana Empresa,Ubicación 66,Empleado 77,3869.33
+Cliente 1950,Mediana Empresa,Ubicación 45,Empleado 79,17163.54
+Cliente 1951,Pequeña Empresa,Ubicación 37,Empleado 89,42860.43
+Cliente 1952,Gobierno,Ubicación 79,Empleado 30,49393.92
+Cliente 1953,Gobierno,Ubicación 66,Empleado 9,33722.98
+Cliente 1954,Pequeña Empresa,Ubicación 52,Empleado 61,3778.22
+Cliente 1955,Gobierno,Ubicación 99,Empleado 38,34284.47
+Cliente 1956,Mediana Empresa,Ubicación 69,Empleado 61,9738.29
+Cliente 1957,Gobierno,Ubicación 6,Empleado 6,46688.81
+Cliente 1958,Mediana Empresa,Ubicación 33,Empleado 41,12426.39
+Cliente 1959,Gobierno,Ubicación 1,Empleado 76,30463.77
+Cliente 1960,Mediana Empresa,Ubicación 21,Empleado 46,46074.29
+Cliente 1961,Gobierno,Ubicación 92,Empleado 29,2604.9
+Cliente 1962,Pequeña Empresa,Ubicación 61,Empleado 34,15128.39
+Cliente 1963,Mediana Empresa,Ubicación 94,Empleado 54,3837.92
+Cliente 1964,Mediana Empresa,Ubicación 67,Empleado 47,36732.1
+Cliente 1965,Gobierno,Ubicación 94,Empleado 39,26191.08
+Cliente 1966,Gobierno,Ubicación 10,Empleado 66,39632.08
+Cliente 1967,Pequeña Empresa,Ubicación 12,Empleado 12,37896.68
+Cliente 1968,Corporativo,Ubicación 34,Empleado 72,9342.33
+Cliente 1969,Gobierno,Ubicación 76,Empleado 70,28732.67
+Cliente 1970,Mediana Empresa,Ubicación 43,Empleado 41,48808.93
+Cliente 1971,Gobierno,Ubicación 82,Empleado 92,12981.39
+Cliente 1972,Pequeña Empresa,Ubicación 1,Empleado 36,6906.55
+Cliente 1973,Gobierno,Ubicación 42,Empleado 78,21644.17
+Cliente 1974,Corporativo,Ubicación 21,Empleado 81,17136.55
+Cliente 1975,Corporativo,Ubicación 97,Empleado 87,8439.14
+Cliente 1976,Gobierno,Ubicación 100,Empleado 65,44976.21
+Cliente 1977,Gobierno,Ubicación 76,Empleado 47,46487.41
+Cliente 1978,Pequeña Empresa,Ubicación 7,Empleado 100,5863.3
+Cliente 1979,Gobierno,Ubicación 45,Empleado 52,3068.87
+Cliente 1980,Corporativo,Ubicación 44,Empleado 70,29113.29
+Cliente 1981,Pequeña Empresa,Ubicación 61,Empleado 21,10192.38
+Cliente 1982,Pequeña Empresa,Ubicación 41,Empleado 10,6009.87
+Cliente 1983,Corporativo,Ubicación 98,Empleado 39,17032.46
+Cliente 1984,Pequeña Empresa,Ubicación 96,Empleado 54,28984.19
+Cliente 1985,Mediana Empresa,Ubicación 51,Empleado 30,43767.93
+Cliente 1986,Corporativo,Ubicación 69,Empleado 6,44436.57
+Cliente 1987,Pequeña Empresa,Ubicación 68,Empleado 38,8497.2
+Cliente 1988,Gobierno,Ubicación 99,Empleado 70,27851.28
+Cliente 1989,Mediana Empresa,Ubicación 65,Empleado 11,37443.33
+Cliente 1990,Mediana Empresa,Ubicación 31,Empleado 26,2996.32
+Cliente 1991,Mediana Empresa,Ubicación 56,Empleado 72,25541.58
+Cliente 1992,Pequeña Empresa,Ubicación 33,Empleado 59,653.5
+Cliente 1993,Pequeña Empresa,Ubicación 31,Empleado 8,3403.8
+Cliente 1994,Corporativo,Ubicación 58,Empleado 27,23956.64
+Cliente 1995,Pequeña Empresa,Ubicación 32,Empleado 85,1922.43
+Cliente 1996,Pequeña Empresa,Ubicación 42,Empleado 56,34580.32
+Cliente 1997,Gobierno,Ubicación 16,Empleado 25,16321.45
+Cliente 1998,Mediana Empresa,Ubicación 62,Empleado 98,48065.62
+Cliente 1999,Pequeña Empresa,Ubicación 38,Empleado 58,43506.51
+Cliente 2000,Corporativo,Ubicación 13,Empleado 36,6098.42

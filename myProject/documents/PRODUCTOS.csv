@@ -1,0 +1,301 @@
+Nombre del Producto,Categoría,Precio Unitario,Stock Disponible,Proveedor
+Producto 1,Esferos,10.00,287,Proveedor 39
+Producto 2,Papel,10.00,140,Proveedor 50
+Producto 3,Papel,$10,284,Proveedor 35
+Producto 4,Toners,30,336,Proveedor 2
+Producto 5,Material de Oficina,$10,88,Proveedor 2
+Producto 6,Material de Oficina,"10,00",223,Proveedor 45
+Producto 7,Toners,15.5,261,Proveedor 41
+Producto 8,Carpetas,"10,00",352,Proveedor 30
+Producto 9,Esferos,30,460,Proveedor 34
+Producto 10,Papel,30,488,Proveedor 21
+Producto 11,Carpetas,$10,447,Proveedor 19
+Producto 12,Papel,10.00,474,Proveedor 8
+Producto 13,Carpetas,,102,Proveedor 1
+Producto 14,Toners,10.00,299,Proveedor 21
+Producto 15,Toners,,472,Proveedor 12
+Producto 16,Material de Oficina,"10,00",23,Proveedor 39
+Producto 17,Esferos,30,231,Proveedor 15
+Producto 18,Carpetas,$10,421,Proveedor 28
+Producto 19,Toners,10.00,104,Proveedor 33
+Producto 20,Papel,30,106,Proveedor 14
+Producto 21,Papel,15.5,131,Proveedor 50
+Producto 22,Material de Oficina,10.00,214,Proveedor 36
+Producto 23,Toners,$10,307,Proveedor 3
+Producto 24,Material de Oficina,"10,00",416,Proveedor 31
+Producto 25,Esferos,15.5,346,Proveedor 27
+Producto 26,Carpetas,15.5,99,Proveedor 44
+Producto 27,Papel,,399,Proveedor 13
+Producto 28,Toners,,43,Proveedor 27
+Producto 29,Esferos,"10,00",293,Proveedor 42
+Producto 30,Papel,"10,00",264,Proveedor 25
+Producto 31,Material de Oficina,30,251,Proveedor 18
+Producto 32,Toners,15.5,110,Proveedor 4
+Producto 33,Toners,30,154,Proveedor 34
+Producto 34,Papel,"10,00",199,Proveedor 45
+Producto 35,Esferos,$10,214,Proveedor 4
+Producto 36,Papel,30,278,Proveedor 41
+Producto 37,Papel,$10,344,Proveedor 9
+Producto 38,Papel,30,309,Proveedor 3
+Producto 39,Papel,15.5,128,Proveedor 13
+Producto 40,Carpetas,,289,Proveedor 15
+Producto 41,Papel,10.00,351,Proveedor 44
+Producto 42,Esferos,30,257,Proveedor 38
+Producto 43,Toners,$10,307,Proveedor 39
+Producto 44,Esferos,30,175,Proveedor 8
+Producto 45,Toners,15.5,-4,Proveedor 26
+Producto 46,Esferos,30,398,Proveedor 36
+Producto 47,Papel,10.00,26,Proveedor 48
+Producto 48,Carpetas,30,123,Proveedor 47
+Producto 49,Carpetas,10.00,258,Proveedor 48
+Producto 50,Esferos,10.00,-4,Proveedor 23
+Producto 51,Material de Oficina,,360,Proveedor 41
+Producto 52,Papel,10.00,11,Proveedor 6
+Producto 53,Material de Oficina,10.00,314,Proveedor 42
+Producto 54,Papel,10.00,438,Proveedor 40
+Producto 55,Papel,"10,00",138,Proveedor 12
+Producto 56,Papel,10.00,249,Proveedor 36
+Producto 57,Toners,30,452,Proveedor 9
+Producto 58,Papel,10.00,219,Proveedor 2
+Producto 59,Papel,15.5,125,Proveedor 38
+Producto 60,Carpetas,15.5,10,Proveedor 40
+Producto 61,Esferos,"10,00",225,Proveedor 1
+Producto 62,Carpetas,,332,Proveedor 15
+Producto 63,Esferos,,74,Proveedor 17
+Producto 64,Papel,15.5,484,Proveedor 18
+Producto 65,Esferos,10.00,361,Proveedor 25
+Producto 66,Toners,30,424,Proveedor 10
+Producto 67,Material de Oficina,10.00,397,Proveedor 49
+Producto 68,Papel,,323,Proveedor 41
+Producto 69,Carpetas,30,40,Proveedor 20
+Producto 70,Toners,"10,00",307,Proveedor 47
+Producto 71,Material de Oficina,30,197,Proveedor 8
+Producto 72,Carpetas,10.00,65,Proveedor 25
+Producto 73,Papel,30,295,Proveedor 36
+Producto 74,Carpetas,30,-1,Proveedor 13
+Producto 75,Material de Oficina,$10,492,Proveedor 9
+Producto 76,Material de Oficina,30,125,Proveedor 8
+Producto 77,Toners,30,329,Proveedor 38
+Producto 78,Esferos,15.5,91,Proveedor 50
+Producto 79,Carpetas,$10,359,Proveedor 8
+Producto 80,Carpetas,30,283,Proveedor 16
+Producto 81,Esferos,30,475,Proveedor 9
+Producto 82,Papel,$10,11,Proveedor 40
+Producto 83,Toners,$10,-7,Proveedor 34
+Producto 84,Esferos,,113,Proveedor 31
+Producto 85,Papel,15.5,80,Proveedor 37
+Producto 86,Toners,10.00,449,Proveedor 29
+Producto 87,Material de Oficina,30,389,Proveedor 10
+Producto 88,Toners,10.00,109,Proveedor 13
+Producto 89,Papel,$10,428,Proveedor 21
+Producto 90,Esferos,"10,00",412,Proveedor 17
+Producto 91,Toners,,-3,Proveedor 29
+Producto 92,Toners,15.5,433,Proveedor 13
+Producto 93,Esferos,30,203,Proveedor 25
+Producto 94,Esferos,$10,172,Proveedor 15
+Producto 95,Material de Oficina,,332,Proveedor 37
+Producto 96,Toners,,-4,Proveedor 33
+Producto 97,Esferos,$10,77,Proveedor 49
+Producto 98,Esferos,10.00,418,Proveedor 33
+Producto 99,Carpetas,30,337,Proveedor 28
+Producto 100,Papel,"10,00",284,Proveedor 4
+Producto 101,Material de Oficina,$10,334,Proveedor 44
+Producto 102,Esferos,,189,Proveedor 33
+Producto 103,Toners,15.5,124,Proveedor 36
+Producto 104,Papel,"10,00",153,Proveedor 16
+Producto 105,Toners,,370,Proveedor 43
+Producto 106,Material de Oficina,,118,Proveedor 16
+Producto 107,Papel,10.00,117,Proveedor 11
+Producto 108,Carpetas,$10,489,Proveedor 8
+Producto 109,Carpetas,15.5,311,Proveedor 30
+Producto 110,Carpetas,15.5,108,Proveedor 13
+Producto 111,Papel,30,159,Proveedor 5
+Producto 112,Toners,10.00,17,Proveedor 5
+Producto 113,Esferos,10.00,402,Proveedor 38
+Producto 114,Material de Oficina,10.00,293,Proveedor 10
+Producto 115,Material de Oficina,10.00,170,Proveedor 42
+Producto 116,Toners,10.00,397,Proveedor 30
+Producto 117,Papel,,447,Proveedor 18
+Producto 118,Carpetas,10.00,172,Proveedor 35
+Producto 119,Carpetas,$10,397,Proveedor 37
+Producto 120,Material de Oficina,15.5,175,Proveedor 35
+Producto 121,Material de Oficina,10.00,420,Proveedor 1
+Producto 122,Carpetas,$10,441,Proveedor 44
+Producto 123,Material de Oficina,$10,341,Proveedor 38
+Producto 124,Esferos,30,105,Proveedor 16
+Producto 125,Esferos,10.00,99,Proveedor 31
+Producto 126,Material de Oficina,15.5,5,Proveedor 28
+Producto 127,Papel,10.00,10,Proveedor 40
+Producto 128,Papel,"10,00",198,Proveedor 17
+Producto 129,Esferos,10.00,-3,Proveedor 15
+Producto 130,Toners,$10,430,Proveedor 45
+Producto 131,Toners,30,191,Proveedor 39
+Producto 132,Esferos,10.00,305,Proveedor 46
+Producto 133,Esferos,15.5,67,Proveedor 23
+Producto 134,Papel,15.5,120,Proveedor 27
+Producto 135,Carpetas,15.5,146,Proveedor 31
+Producto 136,Esferos,"10,00",280,Proveedor 46
+Producto 137,Toners,$10,310,Proveedor 23
+Producto 138,Carpetas,$10,280,Proveedor 50
+Producto 139,Papel,15.5,127,Proveedor 1
+Producto 140,Toners,$10,66,Proveedor 48
+Producto 141,Material de Oficina,15.5,143,Proveedor 14
+Producto 142,Toners,10.00,59,Proveedor 25
+Producto 143,Toners,10.00,39,Proveedor 2
+Producto 144,Papel,"10,00",378,Proveedor 13
+Producto 145,Papel,10.00,347,Proveedor 36
+Producto 146,Esferos,15.5,256,Proveedor 35
+Producto 147,Carpetas,10.00,499,Proveedor 2
+Producto 148,Carpetas,,160,Proveedor 26
+Producto 149,Toners,"10,00",56,Proveedor 46
+Producto 150,Carpetas,$10,375,Proveedor 32
+Producto 151,Papel,"10,00",465,Proveedor 43
+Producto 152,Material de Oficina,,260,Proveedor 45
+Producto 153,Carpetas,$10,220,Proveedor 19
+Producto 154,Papel,$10,365,Proveedor 38
+Producto 155,Carpetas,"10,00",285,Proveedor 41
+Producto 156,Material de Oficina,$10,144,Proveedor 24
+Producto 157,Esferos,10.00,44,Proveedor 45
+Producto 158,Carpetas,,156,Proveedor 36
+Producto 159,Esferos,"10,00",496,Proveedor 14
+Producto 160,Material de Oficina,$10,355,Proveedor 43
+Producto 161,Esferos,,21,Proveedor 37
+Producto 162,Toners,10.00,269,Proveedor 10
+Producto 163,Esferos,15.5,189,Proveedor 39
+Producto 164,Esferos,10.00,433,Proveedor 29
+Producto 165,Material de Oficina,"10,00",430,Proveedor 32
+Producto 166,Material de Oficina,"10,00",168,Proveedor 49
+Producto 167,Papel,"10,00",433,Proveedor 25
+Producto 168,Toners,30,443,Proveedor 26
+Producto 169,Carpetas,15.5,250,Proveedor 37
+Producto 170,Papel,$10,106,Proveedor 34
+Producto 171,Papel,30,233,Proveedor 33
+Producto 172,Material de Oficina,10.00,160,Proveedor 31
+Producto 173,Esferos,"10,00",288,Proveedor 11
+Producto 174,Carpetas,"10,00",152,Proveedor 39
+Producto 175,Toners,"10,00",-10,Proveedor 38
+Producto 176,Carpetas,10.00,283,Proveedor 30
+Producto 177,Papel,"10,00",170,Proveedor 7
+Producto 178,Esferos,10.00,24,Proveedor 15
+Producto 179,Papel,"10,00",66,Proveedor 50
+Producto 180,Carpetas,"10,00",261,Proveedor 10
+Producto 181,Papel,15.5,144,Proveedor 39
+Producto 182,Material de Oficina,,324,Proveedor 45
+Producto 183,Material de Oficina,10.00,180,Proveedor 33
+Producto 184,Carpetas,10.00,79,Proveedor 31
+Producto 185,Material de Oficina,15.5,384,Proveedor 6
+Producto 186,Papel,"10,00",317,Proveedor 26
+Producto 187,Material de Oficina,,414,Proveedor 33
+Producto 188,Esferos,10.00,154,Proveedor 6
+Producto 189,Papel,10.00,286,Proveedor 45
+Producto 190,Material de Oficina,30,65,Proveedor 23
+Producto 191,Material de Oficina,,282,Proveedor 39
+Producto 192,Esferos,10.00,485,Proveedor 2
+Producto 193,Material de Oficina,$10,287,Proveedor 49
+Producto 194,Papel,10.00,322,Proveedor 19
+Producto 195,Papel,30,19,Proveedor 3
+Producto 196,Toners,30,51,Proveedor 6
+Producto 197,Esferos,10.00,163,Proveedor 50
+Producto 198,Esferos,"10,00",304,Proveedor 3
+Producto 199,Carpetas,"10,00",413,Proveedor 17
+Producto 200,Toners,10.00,241,Proveedor 50
+Producto 201,Esferos,,54,Proveedor 24
+Producto 202,Esferos,10.00,83,Proveedor 34
+Producto 203,Material de Oficina,,42,Proveedor 21
+Producto 204,Esferos,"10,00",331,Proveedor 13
+Producto 205,Material de Oficina,15.5,8,Proveedor 43
+Producto 206,Carpetas,$10,415,Proveedor 44
+Producto 207,Esferos,10.00,165,Proveedor 18
+Producto 208,Carpetas,15.5,124,Proveedor 7
+Producto 209,Toners,15.5,59,Proveedor 21
+Producto 210,Material de Oficina,"10,00",237,Proveedor 18
+Producto 211,Papel,$10,18,Proveedor 28
+Producto 212,Material de Oficina,10.00,272,Proveedor 37
+Producto 213,Papel,10.00,91,Proveedor 33
+Producto 214,Material de Oficina,$10,164,Proveedor 13
+Producto 215,Esferos,10.00,228,Proveedor 8
+Producto 216,Carpetas,30,477,Proveedor 35
+Producto 217,Esferos,"10,00",21,Proveedor 43
+Producto 218,Papel,15.5,435,Proveedor 19
+Producto 219,Esferos,,446,Proveedor 37
+Producto 220,Esferos,10.00,145,Proveedor 33
+Producto 221,Esferos,$10,328,Proveedor 32
+Producto 222,Toners,10.00,386,Proveedor 48
+Producto 223,Esferos,$10,280,Proveedor 17
+Producto 224,Toners,"10,00",307,Proveedor 30
+Producto 225,Papel,,230,Proveedor 15
+Producto 226,Material de Oficina,15.5,483,Proveedor 25
+Producto 227,Carpetas,10.00,324,Proveedor 44
+Producto 228,Carpetas,,5,Proveedor 9
+Producto 229,Papel,$10,479,Proveedor 17
+Producto 230,Toners,"10,00",52,Proveedor 35
+Producto 231,Esferos,$10,34,Proveedor 15
+Producto 232,Esferos,,272,Proveedor 22
+Producto 233,Material de Oficina,"10,00",244,Proveedor 11
+Producto 234,Papel,,397,Proveedor 11
+Producto 235,Carpetas,30,152,Proveedor 33
+Producto 236,Material de Oficina,15.5,116,Proveedor 24
+Producto 237,Papel,15.5,372,Proveedor 1
+Producto 238,Material de Oficina,"10,00",372,Proveedor 45
+Producto 239,Papel,,126,Proveedor 4
+Producto 240,Carpetas,"10,00",461,Proveedor 43
+Producto 241,Carpetas,$10,426,Proveedor 35
+Producto 242,Material de Oficina,10.00,171,Proveedor 50
+Producto 243,Papel,$10,326,Proveedor 16
+Producto 244,Material de Oficina,10.00,107,Proveedor 18
+Producto 245,Carpetas,$10,68,Proveedor 50
+Producto 246,Toners,$10,16,Proveedor 32
+Producto 247,Carpetas,,19,Proveedor 46
+Producto 248,Carpetas,"10,00",404,Proveedor 34
+Producto 249,Material de Oficina,"10,00",350,Proveedor 48
+Producto 250,Material de Oficina,15.5,11,Proveedor 32
+Producto 251,Carpetas,$10,188,Proveedor 19
+Producto 252,Material de Oficina,,490,Proveedor 17
+Producto 253,Papel,10.00,54,Proveedor 28
+Producto 254,Toners,30,401,Proveedor 41
+Producto 255,Papel,"10,00",36,Proveedor 50
+Producto 256,Carpetas,15.5,30,Proveedor 11
+Producto 257,Esferos,"10,00",257,Proveedor 35
+Producto 258,Toners,15.5,141,Proveedor 23
+Producto 259,Material de Oficina,,207,Proveedor 47
+Producto 260,Material de Oficina,,432,Proveedor 13
+Producto 261,Toners,$10,363,Proveedor 37
+Producto 262,Esferos,"10,00",209,Proveedor 10
+Producto 263,Papel,10.00,29,Proveedor 21
+Producto 264,Carpetas,$10,481,Proveedor 5
+Producto 265,Toners,15.5,494,Proveedor 31
+Producto 266,Carpetas,10.00,299,Proveedor 6
+Producto 267,Esferos,,188,Proveedor 21
+Producto 268,Toners,10.00,257,Proveedor 25
+Producto 269,Esferos,10.00,151,Proveedor 11
+Producto 270,Carpetas,,207,Proveedor 14
+Producto 271,Esferos,15.5,433,Proveedor 33
+Producto 272,Material de Oficina,,-1,Proveedor 27
+Producto 273,Material de Oficina,,476,Proveedor 47
+Producto 274,Esferos,$10,140,Proveedor 30
+Producto 275,Material de Oficina,30,430,Proveedor 21
+Producto 276,Material de Oficina,,253,Proveedor 38
+Producto 277,Carpetas,,314,Proveedor 40
+Producto 278,Material de Oficina,,456,Proveedor 49
+Producto 279,Toners,30,457,Proveedor 38
+Producto 280,Esferos,15.5,480,Proveedor 9
+Producto 281,Material de Oficina,,97,Proveedor 2
+Producto 282,Carpetas,,409,Proveedor 2
+Producto 283,Papel,30,93,Proveedor 21
+Producto 284,Material de Oficina,,478,Proveedor 30
+Producto 285,Papel,,136,Proveedor 16
+Producto 286,Toners,10.00,457,Proveedor 22
+Producto 287,Papel,$10,353,Proveedor 29
+Producto 288,Toners,30,141,Proveedor 46
+Producto 289,Papel,"10,00",82,Proveedor 15
+Producto 290,Esferos,10.00,379,Proveedor 33
+Producto 291,Esferos,30,299,Proveedor 46
+Producto 292,Material de Oficina,,469,Proveedor 5
+Producto 293,Papel,"10,00",282,Proveedor 35
+Producto 294,Toners,,228,Proveedor 48
+Producto 295,Papel,$10,396,Proveedor 21
+Producto 296,Carpetas,$10,238,Proveedor 35
+Producto 297,Esferos,30,269,Proveedor 4
+Producto 298,Esferos,30,140,Proveedor 27
+Producto 299,Carpetas,15.5,392,Proveedor 48
+Producto 300,Carpetas,15.5,89,Proveedor 37
